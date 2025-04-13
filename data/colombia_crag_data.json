@@ -1,0 +1,6514 @@
+{
+    "Macaguato": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Los atembados",
+                "grade": "8b+",
+                "sector": "Salsa wall"
+            }
+        ]
+    },
+    "Zipaquira": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "N.N.",
+                "grade": "6b+",
+                "sector": "Prime sector"
+            },
+            {
+                "name": "drama queen",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Dura la vida del hippie",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "la maceta del ruso",
+                "grade": "7b",
+                "sector": "Primet sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6b+",
+                "sector": "Primet sector"
+            },
+            {
+                "name": "Plat ton",
+                "grade": "8a",
+                "sector": "Prohibido"
+            },
+            {
+                "name": "Vida de Perros",
+                "grade": "7b",
+                "sector": "Prohibido"
+            },
+            {
+                "name": "Los Tocayos",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Compresi\u00f3n de lectura",
+                "grade": "8a+",
+                "sector": "Los tocayos"
+            },
+            {
+                "name": "Radio Climbing",
+                "grade": "7c",
+                "sector": "Los tocayos"
+            },
+            {
+                "name": "Primera de la Zona",
+                "grade": "6c",
+                "sector": "Primer Zona"
+            },
+            {
+                "name": "Golden Boy",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Jaque mate directa",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cuarta de la zona",
+                "grade": "6c+",
+                "sector": "Primer Zona"
+            },
+            {
+                "name": "Cambio de roles",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Semoviente",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Escondedo",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Iquierda Vida de Perros",
+                "grade": "6c+",
+                "sector": "Prohibido"
+            },
+            {
+                "name": "El Burro",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Nevera con final en techo",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Calor del futuro",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "?? Izquierda Maso",
+                "grade": "6c",
+                "sector": "Fuera de zona"
+            },
+            {
+                "name": "Dos caras",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Yo quiero que lloren",
+                "grade": "7b+",
+                "sector": "Prime sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Primera parte nevera con final en techo",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Las se\u00f1ales del indio",
+                "grade": "8a+",
+                "sector": "Prohibido"
+            },
+            {
+                "name": "Munra",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Primer parte Vida de Perros",
+                "grade": "6c+",
+                "sector": "Prohibido"
+            },
+            {
+                "name": "Abriendo bajo la lluvia",
+                "grade": "5c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Sin huellas",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Dura es la vida del Hippie",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ce movente",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Moon-Ra",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Choachi": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El Raizal",
+                "grade": "7a+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Sinopsis",
+                "grade": "7b",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "El Poeta del Face",
+                "grade": "6c",
+                "sector": "Sinopsis"
+            },
+            {
+                "name": "Black mamba",
+                "grade": "7b+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "La sucursal del cielo",
+                "grade": "8a",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "La T\u00e1ngara",
+                "grade": "7b+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "El Alcarav\u00e1n",
+                "grade": "7c",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Black Kiss",
+                "grade": "7b",
+                "sector": "Valle Escondido"
+            },
+            {
+                "name": "Luna de cristal",
+                "grade": "7c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Liberen a los mini pigs",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Buena vista",
+                "grade": "7b",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Hoy para siempre",
+                "grade": "7a+",
+                "sector": "Pared ppal"
+            },
+            {
+                "name": "L\u00e1ser",
+                "grade": "7c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "La ragazza",
+                "grade": "7b+",
+                "sector": "1er sector"
+            },
+            {
+                "name": "Corin Tellado",
+                "grade": "7b+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Testeando Amarguras",
+                "grade": "6c",
+                "sector": "Luna de cristal"
+            },
+            {
+                "name": "Las vacas sagradas",
+                "grade": "7b+",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "El \u00e1rbol que camina",
+                "grade": "7b",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Eclipse lunar",
+                "grade": "7b+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Uva Camarrona",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La dura dura",
+                "grade": "7c+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Las joyas del barrio",
+                "grade": "8a",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Hakuna lamata",
+                "grade": "7a+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "do\u00f1a demencia",
+                "grade": "7b+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "El fin del Afan",
+                "grade": "8a",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "La bienvenida",
+                "grade": "7a",
+                "sector": "Luna de cristal"
+            },
+            {
+                "name": "Fantasmas de lo nuevo",
+                "grade": "7c+",
+                "sector": "Las vueltas"
+            },
+            {
+                "name": "Black kiss + luna de cristal",
+                "grade": "7c",
+                "sector": "Sinopsis"
+            },
+            {
+                "name": "Directa luna de cristal + eclipse lunar",
+                "grade": "7c+",
+                "sector": "Sinopsis"
+            },
+            {
+                "name": "Divisi\u00f3n del Placer",
+                "grade": "7c+",
+                "sector": "Sinopsis"
+            },
+            {
+                "name": "La bruja de Blair",
+                "grade": "7a+",
+                "sector": "1er sector"
+            },
+            {
+                "name": "Una dura tempestad",
+                "grade": "7b",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "segunda de iz a derecha",
+                "grade": "6c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "La tempestad",
+                "grade": "7c",
+                "sector": "Bogota"
+            },
+            {
+                "name": "El bautizo",
+                "grade": "7a+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Aristeando en pandemia",
+                "grade": "7a+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "El Jabali",
+                "grade": "7c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "derecha de crystal planet",
+                "grade": "6c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Canino",
+                "grade": "8a",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Las vacas m\u00e1s altas",
+                "grade": "7b+",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "El baile de los que sobran",
+                "grade": "7a+",
+                "sector": "El Rinconcito"
+            },
+            {
+                "name": "Los hijos del sur",
+                "grade": "8b",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Diente verde",
+                "grade": "7c",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "El retorno del sensei",
+                "grade": "7c",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "El Florero de Llorente",
+                "grade": "8c",
+                "sector": "Valle Escondido"
+            },
+            {
+                "name": "La Ruleta Rusa",
+                "grade": "7a+",
+                "sector": "Valle Escondido"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7b",
+                "sector": "1er sector"
+            },
+            {
+                "name": "Apnea",
+                "grade": "7a+",
+                "sector": "Valle Escondido"
+            },
+            {
+                "name": "La Peleadera",
+                "grade": "7a",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "El exorcismo de los chanchos",
+                "grade": "7a+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Las mil y una chapas (El libro Sagrado)",
+                "grade": "8a",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "La Tusa",
+                "grade": "8a",
+                "sector": "la tusa"
+            },
+            {
+                "name": "D\u00eda santo",
+                "grade": "7c+",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Tr\u00e1game",
+                "grade": "8b",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Loco Lucas",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El ego del aperturista",
+                "grade": "7a+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Divisi\u00f3n del placer (sit start)",
+                "grade": "8a+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "El chivo",
+                "grade": "6c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "El viaje ancestral",
+                "grade": "8a",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Eclipse directa",
+                "grade": "8a+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Anestesia",
+                "grade": "7a+",
+                "sector": "1er sector"
+            },
+            {
+                "name": "La saga (D)",
+                "grade": "7c",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "No sabemos 3",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Bella Vista",
+                "grade": "7b+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Sinopsis + Eclipse lunar",
+                "grade": "7b+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Auka (variante)",
+                "grade": "7c",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Canino L2",
+                "grade": "7c+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Como dec\u00eda el poeta",
+                "grade": "7b+",
+                "sector": "Caricatura"
+            },
+            {
+                "name": "No sabemos 2",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La Caricatura",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Variante Corin Tellado y Jugo",
+                "grade": "7b+",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "CT Extensi\u00f3n",
+                "grade": "8a",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Velocidad crucero",
+                "grade": "6c",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Las mil y una noches",
+                "grade": "7c",
+                "sector": "Sinopsis"
+            },
+            {
+                "name": "El poeta del face y la princesa del instagram",
+                "grade": "7c",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "Sinopsis - perros ferales",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cor\u00edn Tellado Extensi\u00f3n",
+                "grade": "8a",
+                "sector": "Sinopsis"
+            },
+            {
+                "name": "El amor en los tiempos del covid",
+                "grade": "6c+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Lo sagrado y lo profano",
+                "grade": "7c+",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "El colorin",
+                "grade": "7a",
+                "sector": "Choach\u00ed"
+            },
+            {
+                "name": "La saga",
+                "grade": "7a",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Bienvenidos a Wuhan",
+                "grade": "8a+",
+                "sector": "El Rinconcito"
+            },
+            {
+                "name": "El \u00c1rbol que Camina",
+                "grade": "7b+",
+                "sector": "Amazonia"
+            },
+            {
+                "name": "Valhalla (LTBR)",
+                "grade": "7b",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Pola",
+                "grade": "5c",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Agua dulce",
+                "grade": "6b",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Antolog\u00eda de ocio y vagancias",
+                "grade": "6c+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "La vida es buena",
+                "grade": "5c+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "Happy face",
+                "grade": "6b",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "C\u00f3mo no te voy a querer",
+                "grade": "6c",
+                "sector": "Las vueltas"
+            },
+            {
+                "name": "Madre m\u00eda",
+                "grade": "7a+",
+                "sector": "Las vueltas"
+            },
+            {
+                "name": "HAL 9000",
+                "grade": "7c",
+                "sector": "Las vueltas"
+            },
+            {
+                "name": "Mentes simples",
+                "grade": "7b",
+                "sector": "Las vueltas"
+            },
+            {
+                "name": "Tierra de Gigantes",
+                "grade": "7b",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Las vacas sagradas Extensi\u00f3n",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Lo sagrado y lo profano",
+                "grade": "7c+",
+                "sector": "Agua dulce"
+            },
+            {
+                "name": "El viaje ancestral",
+                "grade": "8a",
+                "sector": "El bosque encantado"
+            },
+            {
+                "name": "Las vacas sagradas",
+                "grade": "7b+",
+                "sector": "Agua dulce"
+            }
+        ]
+    },
+    "Flori\u00e1n": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Ojos de perro azul",
+                "grade": "7c+",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "Flower party",
+                "grade": "7b",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "Debut en primera",
+                "grade": "7b",
+                "sector": "Pared de los Suarez"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7c",
+                "sector": "la venta de ..."
+            },
+            {
+                "name": "Bienvenidos a la fiesta",
+                "grade": "7c",
+                "sector": "Florian"
+            },
+            {
+                "name": "Florianopolis",
+                "grade": "7b+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Minutos de fama",
+                "grade": "8a",
+                "sector": "Ventanas de Tisquizoque"
+            },
+            {
+                "name": "El Laberinto del Fauno",
+                "grade": "7c",
+                "sector": "Ventanas de Tizquesoque"
+            },
+            {
+                "name": "Ensaladita light",
+                "grade": "7b+",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "El pap\u00e1 de los pollitos",
+                "grade": "8b",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "El cacique tizquizoque",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Relatos salvajes",
+                "grade": "7c",
+                "sector": "La Guaca"
+            },
+            {
+                "name": "Wakman",
+                "grade": "7a+",
+                "sector": "Pared de los Suarez"
+            },
+            {
+                "name": "Presente consciente",
+                "grade": "7a",
+                "sector": "La Guaca"
+            },
+            {
+                "name": "Yemas de beb\u00e9",
+                "grade": "7c",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "Flower power + final de en donde es la fiesta",
+                "grade": "7b",
+                "sector": "Florian"
+            },
+            {
+                "name": "La hermandad",
+                "grade": "7b+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Umpala",
+                "grade": "7c",
+                "sector": "Pared de los Suarez"
+            },
+            {
+                "name": "Macho Man",
+                "grade": "8a",
+                "sector": "Ventanas"
+            },
+            {
+                "name": "Grande no es bueno",
+                "grade": "7c",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "El rey de los pegones",
+                "grade": "7b",
+                "sector": "La Guaca"
+            },
+            {
+                "name": "Buscando la salida",
+                "grade": "7b+",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "Persepolis",
+                "grade": "7c+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Echele gratica",
+                "grade": "7c",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Flower Power",
+                "grade": "7a+",
+                "sector": "Col\u00f4mbia - Ventanas de Tisquizoque"
+            },
+            {
+                "name": "El profeta",
+                "grade": "7c",
+                "sector": "Las Ventanas"
+            },
+            {
+                "name": "El Cacique Tisquizoque",
+                "grade": "6b",
+                "sector": "Col\u00f4mbia - Ventanas de Tisquizoque"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c+",
+                "sector": "Col\u00f4mbia - Setor da Frente"
+            }
+        ]
+    },
+    "El Pe\u00f1ol": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El Nido",
+                "grade": "7c+",
+                "sector": "El penol"
+            },
+            {
+                "name": "El avispero",
+                "grade": "5b",
+                "sector": "la gota fria"
+            },
+            {
+                "name": "la paja",
+                "grade": "8a",
+                "sector": "El penol"
+            },
+            {
+                "name": "Supertramp",
+                "grade": "7a+",
+                "sector": "Viernes 13"
+            },
+            {
+                "name": "El Profe",
+                "grade": "6c",
+                "sector": "Zona de la Gota Fria"
+            },
+            {
+                "name": "In Memoria",
+                "grade": "6a",
+                "sector": "Colombia!"
+            },
+            {
+                "name": "Viernes Trece",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La ducha",
+                "grade": "5c",
+                "sector": "encuentro nacional"
+            },
+            {
+                "name": "La Moto",
+                "grade": "6c+",
+                "sector": "La Moto"
+            },
+            {
+                "name": "Aprendete a parar",
+                "grade": "7a+",
+                "sector": "La ducha"
+            },
+            {
+                "name": "poder rasta",
+                "grade": "7b",
+                "sector": "avispero"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c",
+                "sector": "Encuentro National"
+            },
+            {
+                "name": "Aroma de mujer",
+                "grade": "5c",
+                "sector": "Zona de la suite"
+            },
+            {
+                "name": "la volatil",
+                "grade": "7b",
+                "sector": "encuentro nacional"
+            },
+            {
+                "name": "Los Renglones Torcidos de Dios",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Caballeros del Sobaco",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "guillermos",
+                "grade": "5c",
+                "sector": "encuentro nacional"
+            },
+            {
+                "name": "el lomo feroz",
+                "grade": "6c+",
+                "sector": "el lomo"
+            },
+            {
+                "name": "kurakata",
+                "grade": "5a+",
+                "sector": "encuentro nacional"
+            },
+            {
+                "name": "grieta garbo",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "viernes trece L1",
+                "grade": "7b+",
+                "sector": "El penol"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c+",
+                "sector": "Viernes 13"
+            },
+            {
+                "name": "Alcatraz",
+                "grade": "6c+",
+                "sector": "La Moto"
+            }
+        ]
+    },
+    "Abejorral": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Para la mujeres",
+                "grade": "7a",
+                "sector": "Los dados"
+            },
+            {
+                "name": "Ruta del sol ??",
+                "grade": "7a+",
+                "sector": "Los dados"
+            },
+            {
+                "name": "Pachamama",
+                "grade": "7b+",
+                "sector": "Los dados"
+            },
+            {
+                "name": "Los Picapiedras",
+                "grade": "7b+",
+                "sector": "El Bosque"
+            },
+            {
+                "name": "El ausente",
+                "grade": "6c+",
+                "sector": "El Bosque"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6b",
+                "sector": "Casa de Niton"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6a",
+                "sector": "Los dados"
+            },
+            {
+                "name": "El Jardinero",
+                "grade": "7c",
+                "sector": "El Spaguetti"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7a",
+                "sector": "Casa de nilton"
+            },
+            {
+                "name": "El resplandor",
+                "grade": "7a+",
+                "sector": "El corredor"
+            },
+            {
+                "name": "Espiritualmente",
+                "grade": "8b+",
+                "sector": "Los dados"
+            },
+            {
+                "name": "Wolverine",
+                "grade": "7c+",
+                "sector": "El espagetti"
+            },
+            {
+                "name": "Verotica",
+                "grade": "5c",
+                "sector": "Los dados"
+            }
+        ]
+    },
+    "Payande": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La condena",
+                "grade": "7c+",
+                "sector": "La condena"
+            },
+            {
+                "name": "Punto Rojo",
+                "grade": "7b+",
+                "sector": "La condena"
+            },
+            {
+                "name": "El dia de la bestia",
+                "grade": "7a+",
+                "sector": "El espinazo"
+            },
+            {
+                "name": "Gondolero",
+                "grade": "7c+",
+                "sector": "La condena"
+            },
+            {
+                "name": "Para Chicas",
+                "grade": "5c+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "Yo no me llamo Javier",
+                "grade": "6b+",
+                "sector": "La condena"
+            },
+            {
+                "name": "El general Sherman",
+                "grade": "7a+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "El Escape",
+                "grade": "8b",
+                "sector": "La condena"
+            },
+            {
+                "name": "Cadena Perpetua",
+                "grade": "8a+",
+                "sector": "La condena"
+            },
+            {
+                "name": "El Purgatorio",
+                "grade": "8a",
+                "sector": "La condena"
+            },
+            {
+                "name": "Pena de Muerte",
+                "grade": "8a",
+                "sector": "La condena"
+            },
+            {
+                "name": "Papita Power",
+                "grade": "8a",
+                "sector": "Papita Power"
+            },
+            {
+                "name": "El Infierno de Dante",
+                "grade": "8a",
+                "sector": "La condena"
+            },
+            {
+                "name": "La Pistola",
+                "grade": "7a+",
+                "sector": "Sector 2"
+            },
+            {
+                "name": "El Espinazo",
+                "grade": "7a+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "Mango Biche",
+                "grade": "7b",
+                "sector": "Sector 4"
+            },
+            {
+                "name": "El Sputnik",
+                "grade": "7a+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "Qu\u00e9 es lo que somos?",
+                "grade": "7c",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "El Grillete",
+                "grade": "7b+",
+                "sector": "Sector 2"
+            },
+            {
+                "name": "Botal\u00f3n",
+                "grade": "7b",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "Vasos Vac\u00edos",
+                "grade": "8a+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "NN",
+                "grade": "7a+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "Bulevar",
+                "grade": "7b",
+                "sector": "Bulevar"
+            }
+        ]
+    },
+    "Maceo": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Se te muri\u00f3 el p\u00e1jaro",
+                "grade": "7a+",
+                "sector": "Cueva de Agustina"
+            },
+            {
+                "name": "La Pi\u00f1ata",
+                "grade": "6c+",
+                "sector": "La cueva"
+            },
+            {
+                "name": "Comenzando la jornada",
+                "grade": "7a+",
+                "sector": "Cueva de Agustina"
+            },
+            {
+                "name": "Extra\u00f1amente bien",
+                "grade": "7b+",
+                "sector": "Cueva de Agustina"
+            },
+            {
+                "name": "El traverso de Alejo",
+                "grade": "7b",
+                "sector": "La cueva"
+            },
+            {
+                "name": "Podeis escalara en paz",
+                "grade": "6c+",
+                "sector": "La cueva"
+            },
+            {
+                "name": "No es tan dificil como parece",
+                "grade": "7b",
+                "sector": "Cueva de Agustina"
+            },
+            {
+                "name": "No es tan dura como parece",
+                "grade": "7a+",
+                "sector": "La cueva"
+            },
+            {
+                "name": "La Chorrera Moquea",
+                "grade": "8a",
+                "sector": "Cueva de Agustina"
+            },
+            {
+                "name": "Son para un sonero",
+                "grade": "8a+",
+                "sector": "Cueva de Agustina"
+            },
+            {
+                "name": "Escalerita a Maceo",
+                "grade": "4c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "A la diestra de la calavera",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Sentate Calavera",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Macheta": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Nueva Escuela",
+                "grade": "7b",
+                "sector": "New sector"
+            },
+            {
+                "name": "Vieja escuela",
+                "grade": "7b",
+                "sector": "New sector"
+            },
+            {
+                "name": "El mago",
+                "grade": "8a",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "Negativo",
+                "grade": "7b",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "Putas de yoyo",
+                "grade": "7a+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "La Apuesta",
+                "grade": "7c",
+                "sector": "La apuesta"
+            },
+            {
+                "name": "La terapia",
+                "grade": "7b",
+                "sector": "La terapia"
+            },
+            {
+                "name": "El Milagro",
+                "grade": "7a",
+                "sector": "El mazo de la barbie"
+            },
+            {
+                "name": "La Fritanga",
+                "grade": "7c+",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "La naranja mecanica",
+                "grade": "7a",
+                "sector": "La naranja mec\u00e1nica"
+            },
+            {
+                "name": "La diosa Turquesa",
+                "grade": "7b+",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Guacanericonsu",
+                "grade": "7c",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "El infiernito",
+                "grade": "7c+",
+                "sector": "Los tinajos"
+            },
+            {
+                "name": "El piqueteadero",
+                "grade": "8a",
+                "sector": "Guacanericonsu"
+            },
+            {
+                "name": "Predica y aplica",
+                "grade": "6c",
+                "sector": "Nueva escuela"
+            },
+            {
+                "name": "Bakugan",
+                "grade": "7b",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Macho alfa",
+                "grade": "7c",
+                "sector": "La terapia"
+            },
+            {
+                "name": "Playa, Mate y Mambe",
+                "grade": "7a+",
+                "sector": "El Quijote"
+            },
+            {
+                "name": "Culebras en la Cumbre",
+                "grade": "7b+",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Positivo",
+                "grade": "8a",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "Historia sin fin",
+                "grade": "7b+",
+                "sector": "La terapia"
+            },
+            {
+                "name": "La garra del le\u00f3n",
+                "grade": "7b",
+                "sector": "Felino"
+            },
+            {
+                "name": "Siguendo el Rastro",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La apuesta en el infiernito",
+                "grade": "8a",
+                "sector": "Los tinajos"
+            },
+            {
+                "name": "El Mazo de la Barbie",
+                "grade": "6c+",
+                "sector": "El mazo de la barbie"
+            },
+            {
+                "name": "Felino",
+                "grade": "7a+",
+                "sector": "Colombia"
+            },
+            {
+                "name": "El loco y la luna",
+                "grade": "7b+",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "El Barrig\u00f3n Varela",
+                "grade": "7a+",
+                "sector": "El mazo de la barbie"
+            },
+            {
+                "name": "El tinajo Pichon",
+                "grade": "8a+",
+                "sector": "Los tinajos"
+            },
+            {
+                "name": "El hombro de mi amigo",
+                "grade": "7b",
+                "sector": "Colombia"
+            },
+            {
+                "name": "La pistola",
+                "grade": "8b",
+                "sector": "Guacanericonsu"
+            },
+            {
+                "name": "Los tinajos contraatacan",
+                "grade": "7c+",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Sumas y Restas",
+                "grade": "6c+",
+                "sector": "La terapia"
+            },
+            {
+                "name": "El Terapeuta",
+                "grade": "6c",
+                "sector": "El mazo de la barbie"
+            },
+            {
+                "name": "Sangre y Sabor",
+                "grade": "7a+",
+                "sector": "Sangre del Eden"
+            },
+            {
+                "name": "Tsunami",
+                "grade": "7c",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Sangre del Ed\u00e9n",
+                "grade": "7a",
+                "sector": "Felino"
+            },
+            {
+                "name": "La apuesta de la dama y el vagabundo en el infiern",
+                "grade": "8b+",
+                "sector": "La apuesta"
+            },
+            {
+                "name": "El hook",
+                "grade": "7b",
+                "sector": "Diosa Turquesa"
+            },
+            {
+                "name": "El payaso",
+                "grade": "7c",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "El payaso",
+                "grade": "7c",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "Pasarela Vertical",
+                "grade": "7c",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Las ocho vidas del gato",
+                "grade": "7a+",
+                "sector": "Chica Indigo"
+            },
+            {
+                "name": "La dama y el vagabundo",
+                "grade": "8b",
+                "sector": "La apuesta"
+            },
+            {
+                "name": "Machete",
+                "grade": "7a+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "La ultima",
+                "grade": "7b+",
+                "sector": "el hombro de mi amigo"
+            },
+            {
+                "name": "Macho Alfa (easy version)",
+                "grade": "7b+",
+                "sector": "La terapia"
+            },
+            {
+                "name": "Pulgarcito",
+                "grade": "7c",
+                "sector": "La naranja mec\u00e1nica"
+            },
+            {
+                "name": "La Primera Piedra",
+                "grade": "6a+",
+                "sector": "Felino"
+            },
+            {
+                "name": "El tinajo mutante",
+                "grade": "8a",
+                "sector": "Los tinajos"
+            },
+            {
+                "name": "Wakanerikonzu",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los hermanos capetillo",
+                "grade": "7c",
+                "sector": "Los hermanos capetillo"
+            },
+            {
+                "name": "El doctorado",
+                "grade": "7c",
+                "sector": "Macheta"
+            },
+            {
+                "name": "La historia sin fin",
+                "grade": "7c",
+                "sector": "La terapia"
+            },
+            {
+                "name": "Vikingos",
+                "grade": "7a",
+                "sector": "La terapia"
+            },
+            {
+                "name": "Aristoteles",
+                "grade": "8a+",
+                "sector": "Aristoteles"
+            },
+            {
+                "name": "El Supersayayin",
+                "grade": "8a+",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "El doctor Mago",
+                "grade": "8a+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "El goterero",
+                "grade": "7a+",
+                "sector": "Los ausentes"
+            },
+            {
+                "name": "Un pedazo de acorde\u00f3n",
+                "grade": "7b",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "El Quijote",
+                "grade": "6c+",
+                "sector": "Macheta Nuevo"
+            },
+            {
+                "name": "Happy Lora",
+                "grade": "7a+",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Hermandad Estelar",
+                "grade": "8a",
+                "sector": "Pasarela vertical"
+            },
+            {
+                "name": "Pasajera en trance",
+                "grade": "8a",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "The dark side of the moon",
+                "grade": "7b",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "guacanery",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El m\u00e1s all\u00e1",
+                "grade": "7c",
+                "sector": "Macheta"
+            },
+            {
+                "name": "El Maso de la Barbie",
+                "grade": "6c+",
+                "sector": "Echando a perder se aprende"
+            },
+            {
+                "name": "Payaso",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Link-up Culebras+Putas de Yoyo",
+                "grade": "7b",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Hechando a perder se aprende",
+                "grade": "8a",
+                "sector": "La Barbie"
+            },
+            {
+                "name": "N.N. (La pen\u00faltima del sector del hombro de mi amig)",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Hari hatsu",
+                "grade": "8a",
+                "sector": "Guacaneri"
+            },
+            {
+                "name": "El recreo",
+                "grade": "7b+",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "Son para un sonero",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Se paso de Postres",
+                "grade": "8a",
+                "sector": "Los techos"
+            },
+            {
+                "name": "Kriptonita",
+                "grade": "7c+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Chica Indigo",
+                "grade": "7a",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Permafrost",
+                "grade": "7b+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "El h\u00edgado encebollado",
+                "grade": "7c+",
+                "sector": "Guacaneri"
+            },
+            {
+                "name": "Tinajo pich\u00f3n versi\u00f3n suave",
+                "grade": "7b+",
+                "sector": "Los tinajos"
+            },
+            {
+                "name": "La apuesta de la dama y el vagabundo",
+                "grade": "8b",
+                "sector": "La apuesta"
+            },
+            {
+                "name": "H.I.R",
+                "grade": "7b+",
+                "sector": "Escuelas"
+            },
+            {
+                "name": "El vuelo de la guacamaya",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La venganza de Moctezuma",
+                "grade": "6b",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Guacaneri",
+                "grade": "7c",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "El Tinajo SuperSayayin",
+                "grade": "8b",
+                "sector": "Putas de yoyo"
+            },
+            {
+                "name": "Miracle",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Billy Idol",
+                "grade": "6c",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "Free as in freedom",
+                "grade": "7a",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Mi primera vez, donde pusieron los bolts",
+                "grade": "6b+",
+                "sector": "Zona 1"
+            },
+            {
+                "name": "La facil",
+                "grade": "6a+",
+                "sector": "Zona 1"
+            },
+            {
+                "name": "Apuesta",
+                "grade": "7c",
+                "sector": "Viejo"
+            },
+            {
+                "name": "Conexi\u00f3n mago, payaso y doctorado",
+                "grade": "8a+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Zorrari",
+                "grade": "8a",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "Yo me llamo cumbia",
+                "grade": "7b+",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Las 7 vidas del gato",
+                "grade": "7c",
+                "sector": "La apuesta"
+            },
+            {
+                "name": "La ira de Yemanya",
+                "grade": "7c",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "A dos pasos del espacio",
+                "grade": "6c+",
+                "sector": "La B\u00f3veda"
+            },
+            {
+                "name": "El putas del yoyo",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Kubrick",
+                "grade": "7c+",
+                "sector": "Naranja Mec\u00e1nica"
+            },
+            {
+                "name": "Full moon fever",
+                "grade": "7b",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "El aliento del tigre",
+                "grade": "7b+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Sobredosis de ternura",
+                "grade": "7b",
+                "sector": "Infiernito"
+            },
+            {
+                "name": "Flacao",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Iluminati",
+                "grade": "7b",
+                "sector": "el hombro de mi amigo"
+            },
+            {
+                "name": "La tensi\u00f3n de la negra",
+                "grade": "7a+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "No a la conquista",
+                "grade": "7a+",
+                "sector": "primer sector"
+            },
+            {
+                "name": "Pacifista (primer largo)",
+                "grade": "8a",
+                "sector": "La Garra del Leon"
+            },
+            {
+                "name": "N.N. (\u00e0 droite du 8a+)",
+                "grade": "7c",
+                "sector": "Los tinajos"
+            },
+            {
+                "name": "Fatboy",
+                "grade": "6a+",
+                "sector": "El barrigon Varela"
+            },
+            {
+                "name": "Ni lo pienses",
+                "grade": "7b",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "El d\u00eda del juicio",
+                "grade": "7b+",
+                "sector": "El sal\u00f3n de la jusitcia"
+            },
+            {
+                "name": "La sonrisa del camale\u00f3n",
+                "grade": "7a+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Kamasutra",
+                "grade": "7c",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Las 7 vidas del gato",
+                "grade": "7c",
+                "sector": "La apuesta"
+            },
+            {
+                "name": "La ira de Yemanya",
+                "grade": "7c",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "A dos pasos del espacio",
+                "grade": "6c+",
+                "sector": "La B\u00f3veda"
+            },
+            {
+                "name": "El putas del yoyo",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Billy Idol",
+                "grade": "6c",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "Fatboy",
+                "grade": "6a+",
+                "sector": "El barrigon Varela"
+            },
+            {
+                "name": "Ni lo pienses",
+                "grade": "7b",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "El d\u00eda del juicio",
+                "grade": "7b+",
+                "sector": "El sal\u00f3n de la jusitcia"
+            },
+            {
+                "name": "La sonrisa del camale\u00f3n",
+                "grade": "7a+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Kamasutra",
+                "grade": "7c",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Ladys night",
+                "grade": "6c",
+                "sector": "Zona 5"
+            },
+            {
+                "name": "Astropaul",
+                "grade": "6a",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Don Quijote",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Locademia",
+                "grade": "7a+",
+                "sector": "4"
+            },
+            {
+                "name": "Defensa Siciliana",
+                "grade": "6c",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Nueva ruta no se el nombre",
+                "grade": "6b",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "LA batilondra",
+                "grade": "8a+",
+                "sector": "La naranja mec\u00e1nica"
+            },
+            {
+                "name": "elhombro de mi amigo",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N. (La \u00faltima del sector del hombro de mi amigo)",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Variante a la izquierda de sangre del ed\u00e9n",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La fritangeria",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Infiernito",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6b",
+                "sector": "El barrigon Varela"
+            },
+            {
+                "name": "La Apuesta + El Infiernito",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "wakanericonsu",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los Ausentes",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Wakanerikonsul",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Terapeuta",
+                "grade": "6c",
+                "sector": "El mazo de la barbie"
+            },
+            {
+                "name": "El tinajo salvaje",
+                "grade": "7c+",
+                "sector": "El horno"
+            },
+            {
+                "name": "Viajeros de la Galaxia",
+                "grade": "7a",
+                "sector": "Ultimo"
+            },
+            {
+                "name": "Mighty Boosh",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La apuesta y el infiernito",
+                "grade": "7c+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "la puesta",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La negativa",
+                "grade": "7a+",
+                "sector": "primer sector"
+            },
+            {
+                "name": "Echando a perder se aprende",
+                "grade": "8a+",
+                "sector": "el maso de la barbie"
+            },
+            {
+                "name": "La Cuarte",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Salon de la Justicia",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "A la espera del h\u00edgado encebollado",
+                "grade": "7a",
+                "sector": "La Fritanga"
+            },
+            {
+                "name": "Siguiendo El Rastro",
+                "grade": "6c+",
+                "sector": "Las escuelas"
+            },
+            {
+                "name": "el tinajo volador",
+                "grade": "8a",
+                "sector": "El horno"
+            },
+            {
+                "name": "El macho alfa",
+                "grade": "7c",
+                "sector": "El barrigon Varela"
+            },
+            {
+                "name": "El espa\u00f1ol",
+                "grade": "8a+",
+                "sector": "El espa\u00f1ol"
+            },
+            {
+                "name": "N.N. (Left of sangre del eden)",
+                "grade": "7a+",
+                "sector": "First Sector"
+            },
+            {
+                "name": "La Invitaci\u00f3n",
+                "grade": "7b+",
+                "sector": "primer sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7b",
+                "sector": "1er. Sector"
+            },
+            {
+                "name": "El loco y l aluna",
+                "grade": "7b+",
+                "sector": "El Mago"
+            },
+            {
+                "name": "La Cuarta",
+                "grade": "6b+",
+                "sector": "Colombia"
+            },
+            {
+                "name": "Mate y Mambe",
+                "grade": "7a",
+                "sector": "Macheta Nuevo"
+            },
+            {
+                "name": "El Regreso de los Brujos",
+                "grade": "6b+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Barrigon Varela",
+                "grade": "7b",
+                "sector": "El martillo de la barbi"
+            },
+            {
+                "name": "El infiernito (Directa)",
+                "grade": "7c+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c+",
+                "sector": "Col\u00f4mbia - Zona 6"
+            },
+            {
+                "name": "Leji\u00f3n del Mal",
+                "grade": "5b",
+                "sector": "Macheta"
+            },
+            {
+                "name": "La tortuga c\u00f3smica",
+                "grade": "7c",
+                "sector": "Sal\u00f3n de la justicia"
+            },
+            {
+                "name": "El aliento del tigre",
+                "grade": "7b+",
+                "sector": "El sal\u00f3n de la justicia"
+            },
+            {
+                "name": "Sobredosis de ternura",
+                "grade": "7b",
+                "sector": "Infiernito"
+            },
+            {
+                "name": "Flacao",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Iluminati",
+                "grade": "7b",
+                "sector": "el hombro de mi amigo"
+            },
+            {
+                "name": "La tensi\u00f3n de la negra",
+                "grade": "7a+",
+                "sector": "El sal\u00f3n de la justicia"
+            }
+        ]
+    },
+    "Florian, Santander": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "N.N.",
+                "grade": "7a+",
+                "sector": "La cantera"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6b",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Debut en primera",
+                "grade": "7b",
+                "sector": "La cantera"
+            },
+            {
+                "name": "Florianopolis",
+                "grade": "7b+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "No me garles colibri",
+                "grade": "6c+",
+                "sector": "El Port\u00f3"
+            },
+            {
+                "name": "Macho Man",
+                "grade": "8a",
+                "sector": "Cueva"
+            },
+            {
+                "name": "Buscando la salida",
+                "grade": "7b+",
+                "sector": "Cueva"
+            },
+            {
+                "name": "Como Agua entre Las manos",
+                "grade": "8a+",
+                "sector": "Chimbalos"
+            },
+            {
+                "name": "Umpala",
+                "grade": "7c+",
+                "sector": "La cantera"
+            },
+            {
+                "name": "Percepolis",
+                "grade": "7c+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Hechele Gratica",
+                "grade": "8a+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Esto no es ensaladita light",
+                "grade": "7c",
+                "sector": "Ventanas"
+            },
+            {
+                "name": "Flower power",
+                "grade": "7a+",
+                "sector": "Ventanas"
+            },
+            {
+                "name": "Bienvenidos a la fiesta",
+                "grade": "7c",
+                "sector": "Ventanas"
+            },
+            {
+                "name": "Flower party",
+                "grade": "7b",
+                "sector": "Ventanas"
+            }
+        ]
+    },
+    "Minas": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Lo mas duro de tu carne",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "A prueba de Nico",
+                "grade": "7b+",
+                "sector": "A prueba de Nico"
+            },
+            {
+                "name": "la pelada dorada",
+                "grade": "8c",
+                "sector": "el techo"
+            },
+            {
+                "name": "Cafe con Pan extendida",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Deja de so\u00f1ar",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Venta de cisco",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El doctor dedo verde",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Geometria",
+                "grade": "6b+",
+                "sector": "Libro de la se"
+            },
+            {
+                "name": "DR. Dedo Verde",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Lomo dorado",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Como princesas y doncellas",
+                "grade": "7b+",
+                "sector": "Al otro lado del rio"
+            },
+            {
+                "name": "Deja de llorar",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Juntas": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El rescate",
+                "grade": "7c+",
+                "sector": "Maldita vecindad"
+            },
+            {
+                "name": "Comegato",
+                "grade": "7b+",
+                "sector": "Comegato"
+            },
+            {
+                "name": "Rey Chango",
+                "grade": "7a+",
+                "sector": "Maldita vecindad"
+            },
+            {
+                "name": "La maldita vecindad",
+                "grade": "7a+",
+                "sector": "Maldita vecindad"
+            },
+            {
+                "name": "Master morfis",
+                "grade": "7b",
+                "sector": "El tornillo"
+            },
+            {
+                "name": "El Complot",
+                "grade": "7a+",
+                "sector": "Salitre"
+            },
+            {
+                "name": "El club de la pelea",
+                "grade": "7b",
+                "sector": "Maldita vecindad"
+            },
+            {
+                "name": "Mastermorfix",
+                "grade": "7b",
+                "sector": "Maldita vecindad"
+            },
+            {
+                "name": "Yo me llamo cumbia",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Master Joda",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Venga que no es pa eso",
+                "grade": "7c+",
+                "sector": "Juanchito"
+            },
+            {
+                "name": "Calibren fenos",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Dapa": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Dedos blindados",
+                "grade": "6b",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Que te pasa George?",
+                "grade": "7a+",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Como mulas y esclavos",
+                "grade": "6c",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Sentimiento mutuo",
+                "grade": "7a+",
+                "sector": "Flor del fr\u00edo"
+            },
+            {
+                "name": "Plat para plat,plat",
+                "grade": "7a",
+                "sector": "Flor del fr\u00edo"
+            },
+            {
+                "name": "A que no te la haces",
+                "grade": "7c",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Se\u00f1or mojon",
+                "grade": "7a+",
+                "sector": "Flor del fr\u00edo"
+            },
+            {
+                "name": "El ant\u00eddoto",
+                "grade": "7b+",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Largalex",
+                "grade": "7b",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Cari\u00f1itos para mi beb\u00e9",
+                "grade": "7b+",
+                "sector": "Mulas"
+            },
+            {
+                "name": "Mulas recargado",
+                "grade": "7c+",
+                "sector": "Mulas"
+            }
+        ]
+    },
+    "Sutatausa": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "En la cara no",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Bolsillo de Payaso",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Dorado",
+                "grade": "8b",
+                "sector": "El Dorado"
+            },
+            {
+                "name": "El negocio",
+                "grade": "7a+",
+                "sector": "Bloque del r\u00edo"
+            },
+            {
+                "name": "El alba\u00f1il",
+                "grade": "8a+",
+                "sector": "Bloque del r\u00edo"
+            },
+            {
+                "name": "Hablando con los muertos",
+                "grade": "8a",
+                "sector": "La piedra del rey leon"
+            }
+        ]
+    },
+    "Pasto": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Babys and drugs",
+                "grade": "6b+",
+                "sector": "Hombrecito"
+            },
+            {
+                "name": "Menos mal no fuma",
+                "grade": "7b",
+                "sector": "Hombrecito"
+            },
+            {
+                "name": "Chelita con cholita",
+                "grade": "7b",
+                "sector": "Hombrecito"
+            },
+            {
+                "name": "Los toros bravos",
+                "grade": "7a",
+                "sector": "Hombrecito"
+            },
+            {
+                "name": "Broche bestia",
+                "grade": "7b",
+                "sector": "Hombrecito"
+            },
+            {
+                "name": "Sin nombre",
+                "grade": "7b",
+                "sector": "Villa Mar\u00eda"
+            },
+            {
+                "name": "Skeletor",
+                "grade": "7a+",
+                "sector": "Villa Mar\u00eda"
+            },
+            {
+                "name": "Tentaciones",
+                "grade": "7a+",
+                "sector": "Hombrecito"
+            },
+            {
+                "name": "Sin nombre",
+                "grade": "7a",
+                "sector": "Villa Mar\u00eda"
+            },
+            {
+                "name": "Cristales de ambar",
+                "grade": "7a+",
+                "sector": "Hombrecito"
+            }
+        ]
+    },
+    "Valle de los Halcones": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Rod y Jones",
+                "grade": "7c+",
+                "sector": "El Chuzon"
+            },
+            {
+                "name": "El Corazon",
+                "grade": "7a+",
+                "sector": "El Imperio"
+            },
+            {
+                "name": "Droguin",
+                "grade": "6c+",
+                "sector": "Falcomania"
+            },
+            {
+                "name": "Grieta garbo",
+                "grade": "6c+",
+                "sector": "Falcomania"
+            },
+            {
+                "name": "Halcon Peregrino",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Yema Ya",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Quimbombo",
+                "grade": "5c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Tropopausa",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Chuzon",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Ultimo de los Mohicones",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Si tuviera un taladro",
+                "grade": "7a",
+                "sector": "Falcomania"
+            },
+            {
+                "name": "Chewbacca contrataca dir.",
+                "grade": "6c+",
+                "sector": "El imperio de los sentidos"
+            }
+        ]
+    },
+    "Bucaramanga": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "N.N.",
+                "grade": "6c+",
+                "sector": "2nd Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c",
+                "sector": "1st"
+            },
+            {
+                "name": "Fuego en la proa",
+                "grade": "7c+",
+                "sector": "El poeta de la mancha"
+            },
+            {
+                "name": "griptonita",
+                "grade": "7a",
+                "sector": "1st"
+            },
+            {
+                "name": "Kundalini",
+                "grade": "7b+",
+                "sector": "2nd Sector"
+            },
+            {
+                "name": "No todos los perros van al cielo",
+                "grade": "7b+",
+                "sector": "El espa\u00f1ol"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La pepi con Aji",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Guanestone",
+                "grade": "6c+",
+                "sector": "Primer Sector"
+            },
+            {
+                "name": "Caribe at\u00f3mico",
+                "grade": "6c+",
+                "sector": "Pingo Arreccho"
+            },
+            {
+                "name": "Ojo al gorila",
+                "grade": "6c+",
+                "sector": "Primer Sector"
+            }
+        ]
+    },
+    "La Pared": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Los atembados",
+                "grade": "8b+",
+                "sector": "Ferrata"
+            },
+            {
+                "name": "El canto del cucarachero 2do pitch",
+                "grade": "8a+",
+                "sector": "Multipitch"
+            },
+            {
+                "name": "Metele como es 1 & 2 pitch",
+                "grade": "8b",
+                "sector": "Multipitch"
+            },
+            {
+                "name": "Dame tu merecumbe  2 & 3 pitch",
+                "grade": "8b+",
+                "sector": "Multipitch"
+            },
+            {
+                "name": "Al cesar lo que es del C\u00e9sar",
+                "grade": "7b+",
+                "sector": "Salsa wall"
+            },
+            {
+                "name": "M\u00ednimos placeres",
+                "grade": "7a",
+                "sector": "Ferrata"
+            },
+            {
+                "name": "Los avispados",
+                "grade": "project",
+                "sector": "Ferrata"
+            },
+            {
+                "name": "Los Atembados p1 + p2",
+                "grade": "8b+",
+                "sector": "Multipitch"
+            },
+            {
+                "name": "Dame tu merecumbe P2",
+                "grade": "8a",
+                "sector": "Salsa wall"
+            },
+            {
+                "name": "Los atembados p2",
+                "grade": "7c",
+                "sector": "Multipitch"
+            },
+            {
+                "name": "No se lo niego a nadie p3",
+                "grade": "8a+",
+                "sector": "Multipitch"
+            }
+        ]
+    },
+    "La mojarra": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La pepitoria",
+                "grade": "7a+",
+                "sector": "mesa de los santos"
+            },
+            {
+                "name": "alien el octavo baretero",
+                "grade": "7a+",
+                "sector": "Aliens"
+            },
+            {
+                "name": "pulse",
+                "grade": "6c",
+                "sector": "Aliens"
+            },
+            {
+                "name": "el portal rolo",
+                "grade": "6c+",
+                "sector": "el portal rolo"
+            },
+            {
+                "name": "La temperatura",
+                "grade": "7c",
+                "sector": "La espinita"
+            },
+            {
+                "name": "gozo poderoso",
+                "grade": "6c",
+                "sector": "Aliens"
+            },
+            {
+                "name": "Por amor al arte",
+                "grade": "6c",
+                "sector": "Matrix"
+            },
+            {
+                "name": "Fuego en la proa",
+                "grade": "7c+",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "A su prima",
+                "grade": "7c+",
+                "sector": "La espinita"
+            },
+            {
+                "name": "Dientes De Oro",
+                "grade": "7a+",
+                "sector": "1"
+            },
+            {
+                "name": "El chocarrero",
+                "grade": "7a",
+                "sector": "Subete la pata"
+            },
+            {
+                "name": "No todos los perros van al cielo",
+                "grade": "7b+",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "A ultima hora",
+                "grade": "7a",
+                "sector": "1"
+            },
+            {
+                "name": "El recalentado",
+                "grade": "7b+",
+                "sector": "La espinita"
+            },
+            {
+                "name": "Pongale turbina a la bailarina",
+                "grade": "7a+",
+                "sector": "1"
+            },
+            {
+                "name": "Antigravity",
+                "grade": "6c",
+                "sector": "1"
+            },
+            {
+                "name": "El poeta de la mancha",
+                "grade": "7a+",
+                "sector": "el poeta"
+            },
+            {
+                "name": "La zanahoria",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Oscar C2",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Gerber",
+                "grade": "7b",
+                "sector": "15"
+            },
+            {
+                "name": "de gerber para una princesa",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Orion",
+                "grade": "7c+",
+                "sector": "15"
+            },
+            {
+                "name": "pingo arrecho",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Subete la pata",
+                "grade": "7b",
+                "sector": "Subete la pata"
+            },
+            {
+                "name": "Caribe at\u00f3mico",
+                "grade": "6c",
+                "sector": "15"
+            },
+            {
+                "name": "A su hermana",
+                "grade": "8a",
+                "sector": "La espinita"
+            },
+            {
+                "name": "Animals",
+                "grade": "6a+",
+                "sector": "9"
+            },
+            {
+                "name": "La espinita",
+                "grade": "8a+",
+                "sector": "espinita"
+            },
+            {
+                "name": "La oculta",
+                "grade": "7a+",
+                "sector": "10"
+            },
+            {
+                "name": "Se\u00f1or Peque\u00f1o",
+                "grade": "8a",
+                "sector": "espinita"
+            },
+            {
+                "name": "salto cuantico",
+                "grade": "6c+",
+                "sector": "prana"
+            },
+            {
+                "name": "Aracnoides",
+                "grade": "6b+",
+                "sector": "1"
+            },
+            {
+                "name": "Brostidarks",
+                "grade": "7b+",
+                "sector": "10"
+            },
+            {
+                "name": "Kill the cucarachas of your mind",
+                "grade": "5c",
+                "sector": "1"
+            },
+            {
+                "name": "Dharma",
+                "grade": "6b+",
+                "sector": "1"
+            },
+            {
+                "name": "La rasca",
+                "grade": "7b+",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "El vikingo arrecho",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Gullish en orbita",
+                "grade": "6c",
+                "sector": "Gullish"
+            },
+            {
+                "name": "Porro y porra",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "cristal planet",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Diestra y siniestra",
+                "grade": "6c+",
+                "sector": "Aliens"
+            },
+            {
+                "name": "danza azul",
+                "grade": "6a+",
+                "sector": "colombia"
+            },
+            {
+                "name": "M\u00fasica para camaleones",
+                "grade": "5c",
+                "sector": "9"
+            },
+            {
+                "name": "El recalentado paisa",
+                "grade": "7b+",
+                "sector": "Lallana"
+            },
+            {
+                "name": "Verticualidad",
+                "grade": "5b",
+                "sector": "1"
+            },
+            {
+                "name": "True colors",
+                "grade": "5c",
+                "sector": "1"
+            },
+            {
+                "name": "Pretty woman",
+                "grade": "5b",
+                "sector": "10"
+            },
+            {
+                "name": "matrix",
+                "grade": "6a",
+                "sector": "colombia"
+            },
+            {
+                "name": "Gullich en \u00f3rbita",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los Angeles de Charles",
+                "grade": "6b",
+                "sector": "Musica"
+            },
+            {
+                "name": "El Lord Gal\u00e9s",
+                "grade": "7c+",
+                "sector": "El espa\u00f1ol"
+            },
+            {
+                "name": "Kundalini",
+                "grade": "7b+",
+                "sector": "1"
+            },
+            {
+                "name": "Portal Rolo",
+                "grade": "6c+",
+                "sector": "10"
+            },
+            {
+                "name": "La pepitoria + aj\u00ed",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Por si las Moscas",
+                "grade": "5b",
+                "sector": "9"
+            },
+            {
+                "name": "Noche de aniversario",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Recorcholis",
+                "grade": "5c",
+                "sector": "1"
+            },
+            {
+                "name": "ojo al gorila",
+                "grade": "6c+",
+                "sector": "guanestone"
+            },
+            {
+                "name": "Mini",
+                "grade": "7c",
+                "sector": "Alien"
+            },
+            {
+                "name": "La mojarra mec\u00e1nica",
+                "grade": "7a",
+                "sector": "Aliens"
+            },
+            {
+                "name": "Mini",
+                "grade": "7c",
+                "sector": "Alien"
+            },
+            {
+                "name": "La llana",
+                "grade": "7c+",
+                "sector": "La espinita"
+            },
+            {
+                "name": "La r\u00e9plica",
+                "grade": "7a",
+                "sector": "Subete la pata"
+            },
+            {
+                "name": "Pupis",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Pixies",
+                "grade": "6a",
+                "sector": "Por Amor"
+            },
+            {
+                "name": "Feet of fire",
+                "grade": "7a",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "Canillazo cosmico",
+                "grade": "6a+",
+                "sector": "1"
+            },
+            {
+                "name": "prana",
+                "grade": "6b+",
+                "sector": "colombia"
+            },
+            {
+                "name": "rebel music",
+                "grade": "6c",
+                "sector": "la ma\u00f1a"
+            },
+            {
+                "name": "ultima ora",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Juan 9:25",
+                "grade": "5c",
+                "sector": "Por Amor"
+            },
+            {
+                "name": "Holteriando",
+                "grade": "5b",
+                "sector": "10"
+            },
+            {
+                "name": "Animalario",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "rastaman vibration",
+                "grade": "6c+",
+                "sector": "Aliens"
+            },
+            {
+                "name": "La Guachita",
+                "grade": "7a+",
+                "sector": "13"
+            },
+            {
+                "name": "Latinoamerica",
+                "grade": "5c",
+                "sector": "1"
+            },
+            {
+                "name": "El fuego de la luna azul",
+                "grade": "6c+",
+                "sector": "Kundalini"
+            },
+            {
+                "name": "la mitad de lo normal",
+                "grade": "6c+",
+                "sector": "10"
+            },
+            {
+                "name": "Machu Picchu",
+                "grade": "5c",
+                "sector": "4"
+            },
+            {
+                "name": "Requiem por un sue\u00f1o",
+                "grade": "5b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El imperio de los sentidos",
+                "grade": "5c",
+                "sector": "6"
+            },
+            {
+                "name": "De renga en renga",
+                "grade": "7a",
+                "sector": "La pepi"
+            },
+            {
+                "name": "Los poetas del face",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Faltas no me sobran",
+                "grade": "7c+",
+                "sector": "La espinita"
+            },
+            {
+                "name": "The rolling stone",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cookie man",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "oda al chirulo",
+                "grade": "6b+",
+                "sector": "10"
+            },
+            {
+                "name": "la pepi con aji",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cous cous",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los sherpas",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Perrilunio",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Katana",
+                "grade": "7b+",
+                "sector": "Feet of fire"
+            },
+            {
+                "name": "Animalejo",
+                "grade": "7b",
+                "sector": "6"
+            },
+            {
+                "name": "A su abuela",
+                "grade": "7c+",
+                "sector": "La espinita"
+            },
+            {
+                "name": "pour la vie",
+                "grade": "6b",
+                "sector": "8"
+            },
+            {
+                "name": "El espa\u00f1ol original",
+                "grade": "8b+",
+                "sector": "El espa\u00f1ol"
+            },
+            {
+                "name": "el tio richy",
+                "grade": "5c",
+                "sector": "8"
+            },
+            {
+                "name": "Guanestone",
+                "grade": "6c+",
+                "sector": "guanestone"
+            },
+            {
+                "name": "Lallana",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Son Salom\u00e9",
+                "grade": "7a+",
+                "sector": "18"
+            },
+            {
+                "name": "El espa\u00f1ol original",
+                "grade": "8b+",
+                "sector": "El espa\u00f1ol"
+            },
+            {
+                "name": "B.B. day",
+                "grade": "5c",
+                "sector": "5"
+            },
+            {
+                "name": "Kaiowas",
+                "grade": "7a",
+                "sector": "2"
+            },
+            {
+                "name": "LA variante",
+                "grade": "7b+",
+                "sector": "19"
+            },
+            {
+                "name": "El Espa\u00f1ol",
+                "grade": "8b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "retroevolucion",
+                "grade": "7b+",
+                "sector": "sector 9"
+            },
+            {
+                "name": "la pepitoria con aji",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Jack Custodio",
+                "grade": "7b+",
+                "sector": "Techo de la custodia"
+            },
+            {
+                "name": "brosty darth bather",
+                "grade": "7b+",
+                "sector": "brosty"
+            },
+            {
+                "name": "Ma\u00f1a Maco\u00f1a",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Entre canibales",
+                "grade": "6c+",
+                "sector": "10"
+            },
+            {
+                "name": "La alfombra negra",
+                "grade": "7c",
+                "sector": "Fuego en la proa"
+            },
+            {
+                "name": "Pandemonium",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Por amor del arte",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Semi criollo",
+                "grade": "6c+",
+                "sector": "18"
+            },
+            {
+                "name": "Hammer",
+                "grade": "7a",
+                "sector": "3"
+            },
+            {
+                "name": "Verde v\u00e1",
+                "grade": "6b",
+                "sector": "6"
+            },
+            {
+                "name": "Simiosis",
+                "grade": "8b",
+                "sector": "17"
+            },
+            {
+                "name": "La pepi",
+                "grade": "7a+",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "la momia",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La Guarderia",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Griptonita",
+                "grade": "6c+",
+                "sector": "guanestone"
+            },
+            {
+                "name": "no mediga que no si si",
+                "grade": "6b+",
+                "sector": "prana"
+            },
+            {
+                "name": "La momia contracaca",
+                "grade": "7a+",
+                "sector": "Matrix"
+            },
+            {
+                "name": "la yana",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "alien",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El gozo poderoso",
+                "grade": "6c",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "Machu Pichu",
+                "grade": "5c",
+                "sector": "1"
+            },
+            {
+                "name": "prosopopeyate",
+                "grade": "6b",
+                "sector": "colombia"
+            },
+            {
+                "name": "El gecko volador",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El silencio de los inocentes",
+                "grade": "6c+",
+                "sector": "10"
+            },
+            {
+                "name": "Fisuroterapia",
+                "grade": "5a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El que no baile tiene pecuenca",
+                "grade": "6a",
+                "sector": "1"
+            },
+            {
+                "name": "Todo bien pero todo mal",
+                "grade": "7b+",
+                "sector": "4"
+            },
+            {
+                "name": "Esta temblando en santander",
+                "grade": "7a+",
+                "sector": "sector 12"
+            },
+            {
+                "name": "plon chamanico",
+                "grade": "7b",
+                "sector": "sector 11"
+            },
+            {
+                "name": "Los sapos contra-atacan",
+                "grade": "7b+",
+                "sector": "Fuego en la proa"
+            },
+            {
+                "name": "Zaratustra",
+                "grade": "8b",
+                "sector": "sector 12"
+            },
+            {
+                "name": "Pitufos",
+                "grade": "6a",
+                "sector": "7"
+            },
+            {
+                "name": "Pacheco Dame la R",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Salto Quantico",
+                "grade": "6c+",
+                "sector": "1"
+            },
+            {
+                "name": "Feet On Fire",
+                "grade": "7a+",
+                "sector": "Aliens"
+            },
+            {
+                "name": "La Arenosa",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Tio richy",
+                "grade": "5c",
+                "sector": "8"
+            },
+            {
+                "name": "pongale turbina",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Rastaman",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "por-tal rolo",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "welcome to mojarra",
+                "grade": "6c+",
+                "sector": "portal rolo"
+            },
+            {
+                "name": "Aracnoides (half line)",
+                "grade": "5b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Prana",
+                "grade": "6a",
+                "sector": "Kundalini"
+            },
+            {
+                "name": "Cj Makey",
+                "grade": "6b+",
+                "sector": "Matrix"
+            },
+            {
+                "name": "acido galactico",
+                "grade": "6c+",
+                "sector": "la ma\u00f1a"
+            },
+            {
+                "name": "Kundhalini",
+                "grade": "7b+",
+                "sector": "Aliens"
+            },
+            {
+                "name": "Aqui no hay princesas (entrada por Gerber)",
+                "grade": "8a+",
+                "sector": "Gerber"
+            },
+            {
+                "name": "Gozo Poderozo",
+                "grade": "6c",
+                "sector": "1"
+            },
+            {
+                "name": "Ojo al Gorila",
+                "grade": "6b+",
+                "sector": "1"
+            },
+            {
+                "name": "Von Gulich en Orbita",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cipr\u00e9s",
+                "grade": "7b",
+                "sector": "La Custodia"
+            },
+            {
+                "name": "Apartamento 202",
+                "grade": "5b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "fuckemon",
+                "grade": "6c",
+                "sector": "prana"
+            },
+            {
+                "name": "Verticulualidad",
+                "grade": "5b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Latino America",
+                "grade": "5c",
+                "sector": "1"
+            },
+            {
+                "name": "legalize don`t criticize",
+                "grade": "8a+",
+                "sector": "sector 15"
+            },
+            {
+                "name": "El salto eterno de Beau Wether",
+                "grade": "7b",
+                "sector": "El salto"
+            },
+            {
+                "name": "la bruja de blair",
+                "grade": "8a",
+                "sector": "sector 12"
+            },
+            {
+                "name": "Cadena perpetua",
+                "grade": "8b+",
+                "sector": "Sector 14"
+            },
+            {
+                "name": "Diente de oro",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Alien el octavo bareto",
+                "grade": "7a",
+                "sector": "1"
+            },
+            {
+                "name": "Gullich en orbite",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Simiosis",
+                "grade": "8a+",
+                "sector": "Simiosis"
+            },
+            {
+                "name": "El que no baila, tiene pecueca",
+                "grade": "6a",
+                "sector": "18"
+            },
+            {
+                "name": "Magic chuch",
+                "grade": "7a+",
+                "sector": "sector 15"
+            },
+            {
+                "name": "La prima",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Variante de Animal",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "gerber para una prin",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La pepitoria aj\u00ed",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La vaca loca",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El gigante egoista",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "A diestra y siniestra",
+                "grade": "7a",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "El Plom",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La ma\u00f1a Maco\u00f1a",
+                "grade": "6c+",
+                "sector": "animals"
+            },
+            {
+                "name": "Gerber para una princesa",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cuando los sapos atacan",
+                "grade": "7a+",
+                "sector": "La Proa"
+            },
+            {
+                "name": "El salto eterno de Beau Wether",
+                "grade": "7b",
+                "sector": "El salto"
+            },
+            {
+                "name": "Verticulualidad",
+                "grade": "5b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La Vuelta al mundo",
+                "grade": "project",
+                "sector": "14"
+            },
+            {
+                "name": "Mas platon y menos prozac",
+                "grade": "6c",
+                "sector": "1"
+            },
+            {
+                "name": "El sabio en la guarderi",
+                "grade": "8a+",
+                "sector": "16"
+            },
+            {
+                "name": "La guarder\u00eda del sabio",
+                "grade": "8a+",
+                "sector": "16"
+            },
+            {
+                "name": "LA Vuelta al mundo",
+                "grade": "project",
+                "sector": "18"
+            },
+            {
+                "name": "El espa\u00f1ol",
+                "grade": "8b+",
+                "sector": "Sector 14"
+            },
+            {
+                "name": "El Sabio y conocido refran",
+                "grade": "8a",
+                "sector": "18"
+            },
+            {
+                "name": "Los chachas",
+                "grade": "6a",
+                "sector": "10"
+            },
+            {
+                "name": "Reggae Nice",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Al Hora",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Bananei",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Africa",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "One love",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "gerber por una princessa",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Fuego en la prueba",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Atlantis",
+                "grade": "7a",
+                "sector": "El salto"
+            },
+            {
+                "name": "La suciedad de los poetas muertos",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Guillish en Orbita",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Torrente",
+                "grade": "7b+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "Shaky shaky",
+                "grade": "6a",
+                "sector": "8"
+            },
+            {
+                "name": "el marciano",
+                "grade": "6c",
+                "sector": "8"
+            },
+            {
+                "name": "el laberinto del fauno",
+                "grade": "6a",
+                "sector": "11"
+            },
+            {
+                "name": "Hombre peque\u00f1o",
+                "grade": "7c+",
+                "sector": "La espinita"
+            },
+            {
+                "name": "sube te la pata",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cantos pequenos",
+                "grade": "8a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Rastaboy",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Rastafarai",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Peque\u00f1as Infamias",
+                "grade": "7c+",
+                "sector": "Mojarra Salvaje"
+            },
+            {
+                "name": "Ch Mackey",
+                "grade": "6c",
+                "sector": "6"
+            },
+            {
+                "name": "central pasajera",
+                "grade": "6b+",
+                "sector": "8"
+            },
+            {
+                "name": "Mini alien el octavo baretero",
+                "grade": "7b+",
+                "sector": "Aliens"
+            },
+            {
+                "name": "Fixer se partio",
+                "grade": "6a",
+                "sector": "La reserva"
+            },
+            {
+                "name": "Aracnoides - primeira parte",
+                "grade": "5b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "matrix reload",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "layana",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "torrente",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "cundalini",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El chipote",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La Poeta de la Mancha",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mataron a Gullish",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El cachorro",
+                "grade": "7c",
+                "sector": "El espa\u00f1ol"
+            },
+            {
+                "name": "Simbiosis",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Entre mates y mosquitos",
+                "grade": "6c",
+                "sector": "Zona 8"
+            },
+            {
+                "name": "Ultima hora",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Arenosa",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Al'hora",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Zanahoria",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Peptoria con aji",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mas platon menos prosac",
+                "grade": "6c",
+                "sector": "prana"
+            },
+            {
+                "name": "El plon",
+                "grade": "6c",
+                "sector": "prana"
+            },
+            {
+                "name": "el espa\u00c3\u00b1ol",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Crystal Planet",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "el espa\u00c3\u00b1ol",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Crystal Planet",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La era del burro",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La suciedad de los poetas muertos",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "gerber por una princessa",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Fuego en la prueba",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Atlantis",
+                "grade": "7a",
+                "sector": "El salto"
+            },
+            {
+                "name": "Torrente",
+                "grade": "7b+",
+                "sector": "Primer sector"
+            },
+            {
+                "name": "No me diga que no, si s\u00ed",
+                "grade": "6b+",
+                "sector": "4"
+            }
+        ]
+    },
+    "Suesca": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "haztelo panchito",
+                "grade": "7a",
+                "sector": "El riel"
+            },
+            {
+                "name": "Alta Variante",
+                "grade": "7c+",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "Hippie Warrior",
+                "grade": "7b",
+                "sector": "mandahuevix"
+            },
+            {
+                "name": "Luz de Noche",
+                "grade": "6c+",
+                "sector": "suesca"
+            },
+            {
+                "name": "Paisanisate",
+                "grade": "7a+",
+                "sector": "Zona De La Abeja"
+            },
+            {
+                "name": "Maquina de guerra",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Abarajame la Ba\u00f1era",
+                "grade": "7b+",
+                "sector": "suesca"
+            },
+            {
+                "name": "Via de acidos",
+                "grade": "7a+",
+                "sector": "suesca"
+            },
+            {
+                "name": "la negra candela",
+                "grade": "8a",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "Si te Coges",
+                "grade": "7b+",
+                "sector": "El perfume"
+            },
+            {
+                "name": "La Fania",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Si Tuviera un taladro",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Los Gnomos",
+                "grade": "7a",
+                "sector": "Ma\u00f1ana Gris"
+            },
+            {
+                "name": "Azul",
+                "grade": "6c+",
+                "sector": "Suerte"
+            },
+            {
+                "name": "Gracia, poder y magia",
+                "grade": "7b+",
+                "sector": "suesca"
+            },
+            {
+                "name": "Aroma inmortal",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El poder del silencio",
+                "grade": "6a",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "Ninfomaniaca",
+                "grade": "7a+",
+                "sector": "La virgen"
+            },
+            {
+                "name": "Licor",
+                "grade": "7c+",
+                "sector": "Licor"
+            },
+            {
+                "name": "Mandala",
+                "grade": "7a",
+                "sector": "la oculta"
+            },
+            {
+                "name": "No lloren princesas",
+                "grade": "6c+",
+                "sector": "No lloren princesas"
+            },
+            {
+                "name": "Natalio Ruiz",
+                "grade": "6a",
+                "sector": "suesca"
+            },
+            {
+                "name": "El Perfume",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mas Cielo y mas Piedra",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Trio Mataporros",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Trio Mataporros",
+                "grade": "6c+",
+                "sector": "la oculta"
+            },
+            {
+                "name": "High-Tech",
+                "grade": "8b+",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "El Ocaso de los Idolos",
+                "grade": "7c",
+                "sector": "El Desplome"
+            },
+            {
+                "name": "tutti frutti",
+                "grade": "6b+",
+                "sector": "Alcatraz"
+            },
+            {
+                "name": "El desplome celoso",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Despues de la Tormenta",
+                "grade": "6c",
+                "sector": "La abeja"
+            },
+            {
+                "name": "Azul turbio",
+                "grade": "6a",
+                "sector": "Zona 19 - Betty Blue"
+            },
+            {
+                "name": "Ante la duda la m\u00e1s presuda",
+                "grade": "5c",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Travesuras de Daniel",
+                "grade": "6b+",
+                "sector": "Travesuras de Daniel"
+            },
+            {
+                "name": "Microfisica del Poder",
+                "grade": "6b+",
+                "sector": "Suerte"
+            },
+            {
+                "name": "Nueva Era",
+                "grade": "7a",
+                "sector": "Alquimia"
+            },
+            {
+                "name": "escaladictos",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "no cabe duda",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Viaje a Ixtlan",
+                "grade": "6c+",
+                "sector": "Travesuras de Daniel"
+            },
+            {
+                "name": "Sue\u00f1o perdido",
+                "grade": "7a",
+                "sector": "La virgen"
+            },
+            {
+                "name": "Green Master",
+                "grade": "6c",
+                "sector": "Colombia"
+            },
+            {
+                "name": "Salsa y control",
+                "grade": "5c",
+                "sector": "salsa y control"
+            },
+            {
+                "name": "La costa vive",
+                "grade": "6c",
+                "sector": "Eucasoluc"
+            },
+            {
+                "name": "Opio",
+                "grade": "6a+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Cuando te lo hagas",
+                "grade": "6b",
+                "sector": "Zona 11- La nariz"
+            },
+            {
+                "name": "El gusanito de fuego",
+                "grade": "5a+",
+                "sector": "El riel"
+            },
+            {
+                "name": "Piedra y cielo",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mandala+Techo de la Oculta",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los h\u00e9roes nunca mueren",
+                "grade": "7c",
+                "sector": "La virgen"
+            },
+            {
+                "name": "Visionarios",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Yema ya",
+                "grade": "6c+",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Via Lactea",
+                "grade": "6b",
+                "sector": "El riel"
+            },
+            {
+                "name": "valium",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Chuzon",
+                "grade": "7a",
+                "sector": "El valle de los halcones"
+            },
+            {
+                "name": "el comodin",
+                "grade": "6a",
+                "sector": "prisionero sangriento"
+            },
+            {
+                "name": "La bruja y el gato",
+                "grade": "6a+",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "Roxane",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Si Te cojes",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "gotas de lluvia",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mandahuevix",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "CAEC",
+                "grade": "5a",
+                "sector": "CAEC"
+            },
+            {
+                "name": "Chanfle",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Alcatraz",
+                "grade": "6a",
+                "sector": "Alcatraz"
+            },
+            {
+                "name": "Soda y Lim\u00f3n",
+                "grade": "7a+",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "El descreme",
+                "grade": "7c",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Decisiones",
+                "grade": "7a+",
+                "sector": "La abeja"
+            },
+            {
+                "name": "Tiro al blanco",
+                "grade": "6a",
+                "sector": "El riel"
+            },
+            {
+                "name": "Cueros al sol",
+                "grade": "5b",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Dirty Girl",
+                "grade": "5a+",
+                "sector": "Alcatraz"
+            },
+            {
+                "name": "El techo del Colera",
+                "grade": "7b",
+                "sector": "betty blue"
+            },
+            {
+                "name": "Danzando en el espacio",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Suescalito",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Aprendiendo a chapar",
+                "grade": "4c",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "13 que te parece el 13",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "bloques y polas",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "calma tormentosa",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Uniendo Fuerzas",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Imperio de los Sentidos",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Candela",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Hippy Warrior",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Piano Bar",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Para mis amigos",
+                "grade": "5b",
+                "sector": "Alcatraz"
+            },
+            {
+                "name": "El fin de la poes\u00eda",
+                "grade": "6a+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "El show debe...",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La prostitucion del medio",
+                "grade": "7b+",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Halcon del Pelegrino",
+                "grade": "6c",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "El Fantasma de Cantervil",
+                "grade": "6a+",
+                "sector": "Del Riel"
+            },
+            {
+                "name": "LP",
+                "grade": "5a+",
+                "sector": "LP"
+            },
+            {
+                "name": "Microf\u00edsica",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "chica sucia",
+                "grade": "5c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Libro Negro",
+                "grade": "5a+",
+                "sector": "Clavicula"
+            },
+            {
+                "name": "La ira de Bruno",
+                "grade": "8a+",
+                "sector": "Licor"
+            },
+            {
+                "name": "Sue\u00f1os de un seductor",
+                "grade": "6a",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "La rana reniega",
+                "grade": "5c",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "El poder de la palabra",
+                "grade": "6b",
+                "sector": "El Diedro Rosado"
+            },
+            {
+                "name": "Burru\u00f1eate",
+                "grade": "7a+",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Bonny",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Bar Man",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "sombra blanca",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "ser taciturno",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "heavy mental",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "mhhh!!",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "y lo que viene",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Se me chispotio",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "mhh iz imperio",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Von glacet",
+                "grade": "5b",
+                "sector": "CAEC"
+            },
+            {
+                "name": "El desplome + te tiene abajo la cannabis",
+                "grade": "7c",
+                "sector": "prisionero sangriento"
+            },
+            {
+                "name": "Hermanos de leche",
+                "grade": "7b",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Trabajo Sucio",
+                "grade": "6c+",
+                "sector": "chica sucia"
+            },
+            {
+                "name": "Supernova",
+                "grade": "7a+",
+                "sector": "Mandala"
+            },
+            {
+                "name": "Traverso de la virgen",
+                "grade": "6b+",
+                "sector": "La virgen"
+            },
+            {
+                "name": "El gran Velon",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "suescanabis",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Paisanisate+alar",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Paisanizate",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "ocasodelosidolos",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "desplome+tetiene",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Der fin poesia",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Desplome+Te tiene abajo la canabis",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Coraz\u00f3n",
+                "grade": "7b",
+                "sector": "El Valle"
+            },
+            {
+                "name": "El Indocumentado",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Azarate",
+                "grade": "7a+",
+                "sector": "El desplome celoso"
+            },
+            {
+                "name": "El Chicharon",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El sargento Shultz",
+                "grade": "6a",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "Tutti fruti",
+                "grade": "6a",
+                "sector": "Alcatraz"
+            },
+            {
+                "name": "Rasqui\u00f1a",
+                "grade": "6b",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "Pedro trepapiedra Adenddum",
+                "grade": "7c+",
+                "sector": "Gravedad 9.9"
+            },
+            {
+                "name": "Vuelo Nocturno",
+                "grade": "6a",
+                "sector": "Zona 17 - Alcatraz"
+            },
+            {
+                "name": "Severo discontrol",
+                "grade": "7a+",
+                "sector": "Soda y limon"
+            },
+            {
+                "name": "Panchito direct",
+                "grade": "6c+",
+                "sector": "Haztelo Panchito"
+            },
+            {
+                "name": "Prisionero Sangriento",
+                "grade": "6a",
+                "sector": "prisionero sangriento"
+            },
+            {
+                "name": "N.N.",
+                "grade": "7b",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "Rasgu\u00f1a las Piedras",
+                "grade": "6c",
+                "sector": "El riel"
+            },
+            {
+                "name": "Viene La Calma",
+                "grade": "6b",
+                "sector": "La abeja"
+            },
+            {
+                "name": "Fantasma Gasparin",
+                "grade": "5c",
+                "sector": "El riel"
+            },
+            {
+                "name": "La abeja",
+                "grade": "4a",
+                "sector": "La abeja"
+            },
+            {
+                "name": "Alquimia",
+                "grade": "5c",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "Viajes Ixtlan",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "haztelo ara\u00f1ita",
+                "grade": "7a",
+                "sector": "Licor"
+            },
+            {
+                "name": "nuevas luces",
+                "grade": "6c+",
+                "sector": "La virgen"
+            },
+            {
+                "name": "no lloren prince",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Der Chicacharron",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Traverso del Sapo",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "iz chicharron",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El aborrajado",
+                "grade": "7b",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Super Nova",
+                "grade": "7a+",
+                "sector": "Eucasoluc"
+            },
+            {
+                "name": "techo curupira",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Trepa fariseo",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Paisanisate+vida",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "N.N. (techo)",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Trabajo Sucio",
+                "grade": "6c+",
+                "sector": "chica sucia"
+            },
+            {
+                "name": "Von glacet",
+                "grade": "5b",
+                "sector": "CAEC"
+            },
+            {
+                "name": "El desplome + te tiene abajo la cannabis",
+                "grade": "7c",
+                "sector": "prisionero sangriento"
+            },
+            {
+                "name": "Trepa trepa filobates variante",
+                "grade": "4c",
+                "sector": "La virgen"
+            },
+            {
+                "name": "Clean gringo",
+                "grade": "5a+",
+                "sector": "chica sucia"
+            },
+            {
+                "name": "Para los amigos mas fuertes",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Nairoman",
+                "grade": "6c",
+                "sector": "El turpial"
+            },
+            {
+                "name": "Aprendiendo a volar",
+                "grade": "7b",
+                "sector": "La diagonal"
+            },
+            {
+                "name": "Licor destilado",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Pu\u00f1os",
+                "grade": "5c",
+                "sector": "La virgen"
+            },
+            {
+                "name": "Septum",
+                "grade": "8b",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Suescanisate",
+                "grade": "8a",
+                "sector": "Zona De La Abeja"
+            },
+            {
+                "name": "natalio ruiz extensi\u00f3n",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Frescalando",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Siete metros a la izquierda",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "la fruna",
+                "grade": "6a",
+                "sector": "klettergarten"
+            },
+            {
+                "name": "La Oculta",
+                "grade": "5c",
+                "sector": "Eucasoluc"
+            },
+            {
+                "name": "N.N.",
+                "grade": "6b",
+                "sector": "la Rosa espinosa"
+            },
+            {
+                "name": "el payaso",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Trolla",
+                "grade": "6b+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Malaria",
+                "grade": "7b",
+                "sector": "Licor"
+            },
+            {
+                "name": "he ah\u00ed el dilema",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Sagrada Familia",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La psicologica",
+                "grade": "5c",
+                "sector": "mandahuevix"
+            },
+            {
+                "name": "El show debe seguir",
+                "grade": "6a+",
+                "sector": "Del Riel"
+            },
+            {
+                "name": "8",
+                "grade": "5a+",
+                "sector": "Travesuras de Daniel"
+            },
+            {
+                "name": "Licor adulterado",
+                "grade": "8a+",
+                "sector": "Licor"
+            },
+            {
+                "name": "Ara\u00f1as",
+                "grade": "6b",
+                "sector": "Rosa Espinoza"
+            },
+            {
+                "name": "Dirty Girl",
+                "grade": "5c",
+                "sector": "suesca"
+            },
+            {
+                "name": "El Arborito",
+                "grade": "4c",
+                "sector": "suesca"
+            },
+            {
+                "name": "Suerte",
+                "grade": "5c",
+                "sector": "suesca"
+            },
+            {
+                "name": "Dedos",
+                "grade": "5c",
+                "sector": "suesca"
+            },
+            {
+                "name": "De la verde",
+                "grade": "7a",
+                "sector": "El Diedro Rosado"
+            },
+            {
+                "name": "El Curupira",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Gracia,Poder y Magia",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Rastaman",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ariste gato",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Directa de Luz de Noche",
+                "grade": "7b+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Critica destructiva",
+                "grade": "7a+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Suescannabis con Aj\u00ed",
+                "grade": "7c+",
+                "sector": "El turpial"
+            },
+            {
+                "name": "LA mogg",
+                "grade": "8c+",
+                "sector": "Eucasoluc"
+            },
+            {
+                "name": "Mas piedra mas cielo",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Viaja Itxlam",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Desplome con t.a",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Variante del Imp",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mas piedra y mas cie",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Roxanne",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "s tuviera un taladr",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Shoes On",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Viaja Itxlam",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Desplome con t.a",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Variante del Imp",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Mas piedra y mas cie",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Aroma Virtual + Inmortales para una dama",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Aroma Virtual",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Bombomania",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Tetanus",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Roxane con el Traverso",
+                "grade": "7b",
+                "sector": "El Valle"
+            },
+            {
+                "name": "No dejes para ma\u00f1ana lo q puedes proteger hoy",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "betty blue",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Sodaylimon+Colgando",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Piano Bar (con alargue)",
+                "grade": "7b+",
+                "sector": "La virgen"
+            },
+            {
+                "name": "Ganya",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "fin de la poesia",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "el trio mata porros",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Yo no soy marinero",
+                "grade": "8a",
+                "sector": "La C\u00e9dula"
+            },
+            {
+                "name": "mandala(sebastian prieto)",
+                "grade": "7b+",
+                "sector": "tuti fruti"
+            },
+            {
+                "name": "azul turbio/mil disculpas",
+                "grade": "6a+",
+                "sector": "betty blue"
+            },
+            {
+                "name": "el fantasma de canterville",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Poker de mujeres",
+                "grade": "7b",
+                "sector": "Escaladictos"
+            },
+            {
+                "name": "Gaia",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Desiciones",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Eucasoluc",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Lo bueno ya viene",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Inmortales para una Dama",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La Creciente",
+                "grade": "5c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Chuzon",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "amansa guapos",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "13 que te parece",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "dansando en el espac",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "animalejo",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "hipiee warrior",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Full Moon",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El af\u00e1n de los idiotas",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "la revelion de los brujos",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "desplome con continuacion",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "No dejes para ma\u00f1ana... directa",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "techo arrecho",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Izquierda Arista Suescalito",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Chuz on",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Chuwaca contra ataca",
+                "grade": "7a",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Altaneria",
+                "grade": "6c+",
+                "sector": "El Valle"
+            },
+            {
+                "name": "Grieta Garbo",
+                "grade": "6c+",
+                "sector": "El Valle"
+            },
+            {
+                "name": "El Cielo Puede Esperar",
+                "grade": "6b",
+                "sector": "Valium"
+            },
+            {
+                "name": "Koyaanisqatsi",
+                "grade": "6b+",
+                "sector": "El Gran Techo"
+            },
+            {
+                "name": "En La Busqueda",
+                "grade": "6c+",
+                "sector": "Los Techos del Curupira"
+            },
+            {
+                "name": "Thriller",
+                "grade": "7b+",
+                "sector": "Thriller"
+            },
+            {
+                "name": "sustentacion de amor",
+                "grade": "6c+",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "mas piedra y mas cielo",
+                "grade": "6c",
+                "sector": "La abeja"
+            },
+            {
+                "name": "si tuviera un traladro",
+                "grade": "7a",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "El Gran Diedro",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Hippye warrior",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Un desplome celoso",
+                "grade": "7b+",
+                "sector": "prisionero sangriento"
+            },
+            {
+                "name": "Yemaya",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cortina de hierro (variante)",
+                "grade": "5c",
+                "sector": "L.P."
+            },
+            {
+                "name": "Gran Techo",
+                "grade": "5a+",
+                "sector": "Clavicula"
+            },
+            {
+                "name": "Los Borrachos",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Bonnie",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Tutuifruti",
+                "grade": "6b",
+                "sector": "chica sucia"
+            },
+            {
+                "name": "El camar\u00f3n",
+                "grade": "5c",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "Yeso",
+                "grade": "4a",
+                "sector": "CAEC"
+            },
+            {
+                "name": "Verde",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Quimbomb\u00f3",
+                "grade": "5c",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "Heroes no mueren",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "traverso delsapo",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Rastaman",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ariste gato",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Directa de Luz de Noche",
+                "grade": "7b+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Critica destructiva",
+                "grade": "7a+",
+                "sector": "la nariz"
+            },
+            {
+                "name": "Suescannabis con Aj\u00ed",
+                "grade": "7c+",
+                "sector": "El turpial"
+            },
+            {
+                "name": "LA mogg",
+                "grade": "8c+",
+                "sector": "Eucasoluc"
+            },
+            {
+                "name": "Mr. Jones",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Solaris",
+                "grade": "6c+",
+                "sector": "El vivac"
+            },
+            {
+                "name": "Rasca",
+                "grade": "5b",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "Versi\u00f3n mejorada (variante)",
+                "grade": "6b",
+                "sector": "Ma\u00f1ana Gris"
+            },
+            {
+                "name": "El show debe seguir",
+                "grade": "6c+",
+                "sector": "Panchito"
+            },
+            {
+                "name": "La senda del guerrero",
+                "grade": "6b+",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "El vivac (variante)",
+                "grade": "5b",
+                "sector": "El vivac"
+            },
+            {
+                "name": "Escalera al cielo",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "escaladictos",
+                "grade": "8a",
+                "sector": "la nariz"
+            },
+            {
+                "name": "green master",
+                "grade": "8a",
+                "sector": "chica sucia"
+            },
+            {
+                "name": "la gran ola",
+                "grade": "7a",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Bachar",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Thriller",
+                "grade": "7b+",
+                "sector": "Thriller"
+            },
+            {
+                "name": "Un desplome celoso",
+                "grade": "7b+",
+                "sector": "prisionero sangriento"
+            },
+            {
+                "name": "Yemaya",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cortina de hierro (variante)",
+                "grade": "5c",
+                "sector": "L.P."
+            },
+            {
+                "name": "Tutuifruti",
+                "grade": "6b",
+                "sector": "chica sucia"
+            },
+            {
+                "name": "El camar\u00f3n",
+                "grade": "5c",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "Yeso",
+                "grade": "4a",
+                "sector": "CAEC"
+            },
+            {
+                "name": "Verde",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Quimbomb\u00f3",
+                "grade": "5c",
+                "sector": "Valle de los Halcones"
+            },
+            {
+                "name": "Heroes no mueren",
+                "grade": "7c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "traverso delsapo",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Desplome celoso",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El show deve seguir",
+                "grade": "6b",
+                "sector": "Del Riel"
+            },
+            {
+                "name": "Tropopausa",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los Techos del Curupira",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Se tuviera un taladro",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Aroma Imortal",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ocaso de idolos",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "trecequeteparece",
+                "grade": "8a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El desplome celoso + Te tiene abajo la cannabis",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Desplome Celoso+Te Tiene Abajo la Cannabis",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Cortina de Hierro",
+                "grade": "6a+",
+                "sector": "LP"
+            },
+            {
+                "name": "El gran diedro traverso",
+                "grade": "7a+",
+                "sector": "suesca"
+            },
+            {
+                "name": "La sagrada familia",
+                "grade": "6c+",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Viviendo en los sentidos",
+                "grade": "7b+",
+                "sector": "Alquimia"
+            },
+            {
+                "name": "La Senda Del Guerro",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Un instante infinito",
+                "grade": "6b+",
+                "sector": "Travesuras de Daniel"
+            },
+            {
+                "name": "Tetanos",
+                "grade": "6c+",
+                "sector": "el gran diedro"
+            },
+            {
+                "name": "Lo que el vuelo se llevo",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El desplome celoso Te tiene abajo la cannabis",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Amansa Guapos",
+                "grade": "7b",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "ElAfandelosIdiot",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El revolver",
+                "grade": "6a",
+                "sector": "el poder del silencio"
+            },
+            {
+                "name": "G&G",
+                "grade": "6a",
+                "sector": "mandahuevix"
+            },
+            {
+                "name": "Las travesuras del Chato",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Libro Negro",
+                "grade": "4b",
+                "sector": "suesca"
+            },
+            {
+                "name": "Clavicula",
+                "grade": "4b",
+                "sector": "suesca"
+            },
+            {
+                "name": "11",
+                "grade": "5a+",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "Chuzale",
+                "grade": "6c+",
+                "sector": "Sue\u00f1os de un seductor"
+            },
+            {
+                "name": "Lamok",
+                "grade": "8a",
+                "sector": "Mandala"
+            },
+            {
+                "name": "Punos",
+                "grade": "5c",
+                "sector": "La virgen"
+            }
+        ]
+    },
+    "Puente Reyes": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Links",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Gamza Siervo de Dios o del Diablo",
+                "grade": "7b",
+                "sector": "Bloques Superiores"
+            },
+            {
+                "name": "Orogenia",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Gamsa siervo del diablo",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Del Crep\u00fasculo al amanecer",
+                "grade": "7a+",
+                "sector": "La Playa"
+            }
+        ]
+    },
+    "Mesa de los Santos": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Pepitoria",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Subete la pata",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Brostidars bladers",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "chocarrelo",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Momia",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Kundalini",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La pepi con aj\u00ed",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "kundhalini",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Macheta Colombia": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Nueva escuela",
+                "grade": "7b",
+                "sector": "Macheta"
+            },
+            {
+                "name": "El loco y la luna",
+                "grade": "7b+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "La historia sin fin",
+                "grade": "7b+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Positivo",
+                "grade": "7c",
+                "sector": "Macheta"
+            },
+            {
+                "name": "El mago",
+                "grade": "8a",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Wuacaneri",
+                "grade": "7c",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Negativo",
+                "grade": "7a+",
+                "sector": "Macheta"
+            }
+        ]
+    },
+    "La mojarra-colombia": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Musica para camaleones",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "C.J. Mackey",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Rebel music",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Los angeles de Charles",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Animalejo",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Subete la pata",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "La momia contra-caca",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Acido galactico",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "La Tasajera": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Ruta 3",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 8",
+                "grade": "6b",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 6",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 7 - El Espejo",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 2",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 5",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 4",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ruta 9",
+                "grade": "6a",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "La Pe\u00f1a": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El Nevecon",
+                "grade": "7c",
+                "sector": "El Dado"
+            },
+            {
+                "name": "Gautama",
+                "grade": "8a+",
+                "sector": "Dados"
+            },
+            {
+                "name": "Papi juega con migo",
+                "grade": "7c+",
+                "sector": "Dados"
+            },
+            {
+                "name": "Los Picapiedras",
+                "grade": "7b+",
+                "sector": "El Dado"
+            },
+            {
+                "name": "La Niebla",
+                "grade": "8a+",
+                "sector": "El Bosque"
+            }
+        ]
+    },
+    "Uguata": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La gota",
+                "grade": "6b",
+                "sector": "Big Bang"
+            },
+            {
+                "name": "Brayan en misa",
+                "grade": "6b+",
+                "sector": "Big Bang"
+            },
+            {
+                "name": "Apolo Sound",
+                "grade": "6c",
+                "sector": "Big Bang"
+            },
+            {
+                "name": "Satelite",
+                "grade": "7a",
+                "sector": "Big Bang"
+            },
+            {
+                "name": "La lapida",
+                "grade": "7a+",
+                "sector": "Big Bang"
+            },
+            {
+                "name": "Cosmovisi\u00f3n",
+                "grade": "8b+",
+                "sector": "Zona Galactica"
+            }
+        ]
+    },
+    "Charco Verde": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Sabor tropical",
+                "grade": "6c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Salida de emergencia",
+                "grade": "5c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ara\u00f1a de agua",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Ovni",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Clorofila",
+                "grade": "7a+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Beso de \u00e1ngel",
+                "grade": "6a+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Florian Colombia": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El Cacique Tisquizoque",
+                "grade": "6b",
+                "sector": "La Cueva"
+            },
+            {
+                "name": "Flower Power",
+                "grade": "7b",
+                "sector": "La Cueva"
+            },
+            {
+                "name": "Persepolis",
+                "grade": "7c+",
+                "sector": "El Porton"
+            },
+            {
+                "name": "Bienvenidos a la Fiesta",
+                "grade": "7c",
+                "sector": "La Cueva"
+            },
+            {
+                "name": "Power Flower",
+                "grade": "7a+",
+                "sector": "La Cueva"
+            },
+            {
+                "name": "El Profeta",
+                "grade": "7c",
+                "sector": "La Cueva"
+            }
+        ]
+    },
+    "El port\u00f3n": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El gal\u00e1n",
+                "grade": "6a+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "Manchas de amor",
+                "grade": "6b+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "La reina del fuego",
+                "grade": "6b+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "John Davis",
+                "grade": "6a+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "Campamento Remora",
+                "grade": "6a+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "No me hables colibri",
+                "grade": "6c+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "Old habbits die hard",
+                "grade": "6b+",
+                "sector": "Flori\u00e1n"
+            }
+        ]
+    },
+    "El sal\u00f3n de la justicia": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Chica \u00cdndigo L1+L2",
+                "grade": "7a+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Dark Side of the Moon",
+                "grade": "7b",
+                "sector": "Macheta"
+            },
+            {
+                "name": "El vuelo de las \u00e1guilas",
+                "grade": "7b+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Kamasutra",
+                "grade": "7c",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Chica \u00cdndigo",
+                "grade": "6c+",
+                "sector": "Macheta"
+            },
+            {
+                "name": "Playa mate y mambe",
+                "grade": "7a+",
+                "sector": "Macheta"
+            }
+        ]
+    },
+    "Pe\u00f1as Blancas": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "la rampa",
+                "grade": "6a",
+                "sector": "la rampa"
+            },
+            {
+                "name": "evolution",
+                "grade": "6c",
+                "sector": "evolucion"
+            },
+            {
+                "name": "domo",
+                "grade": "6c+",
+                "sector": "atardecer"
+            },
+            {
+                "name": "malicia",
+                "grade": "7a",
+                "sector": "atardecer"
+            },
+            {
+                "name": "ay caramba",
+                "grade": "7b",
+                "sector": "atardecer"
+            },
+            {
+                "name": "el alacran",
+                "grade": "8a",
+                "sector": "el alacran"
+            }
+        ]
+    },
+    "Suesca - El Buque": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La gota",
+                "grade": "6a+",
+                "sector": "TNT"
+            },
+            {
+                "name": "NN long overhung.",
+                "grade": "7b",
+                "sector": "TNT"
+            },
+            {
+                "name": "NN",
+                "grade": "6a+",
+                "sector": "TNT"
+            },
+            {
+                "name": "NN layback diagonal",
+                "grade": "7a+",
+                "sector": "TNT"
+            }
+        ]
+    },
+    "La mesa de los santos": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La bruja de Blair",
+                "grade": "8a",
+                "sector": "Al bruja"
+            },
+            {
+                "name": "Animalejo",
+                "grade": "7a+",
+                "sector": "Matrix"
+            }
+        ]
+    },
+    "San Felix": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La Gillette",
+                "grade": "5c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Otra raya mas pa'l tigre",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "El Tercer Ojo",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Acuamanes",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "La mojarra Colombia": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Su prima",
+                "grade": "7c+",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "Gerber",
+                "grade": "7b",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "Fuego en la proa",
+                "grade": "7c+",
+                "sector": "La mojarra"
+            },
+            {
+                "name": "El recalentado",
+                "grade": "7b+",
+                "sector": "La mojarra"
+            }
+        ]
+    },
+    "Cucaita": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La Gorda",
+                "grade": "5c+",
+                "sector": "Zona1"
+            },
+            {
+                "name": "Hemi",
+                "grade": "6a+",
+                "sector": "Zona1"
+            },
+            {
+                "name": "La tuerca",
+                "grade": "6c+",
+                "sector": "Zona1"
+            },
+            {
+                "name": "Placa",
+                "grade": "6c+",
+                "sector": "Zona1"
+            }
+        ]
+    },
+    "La pe\u00f1a abejorral": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Fideo el artista",
+                "grade": "6c",
+                "sector": "El corredor"
+            },
+            {
+                "name": "El ausente",
+                "grade": "6c+",
+                "sector": "El bosque"
+            },
+            {
+                "name": "El resplandor",
+                "grade": "7a",
+                "sector": "El corredor"
+            }
+        ]
+    },
+    "El boquete de la mojarra": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La Llana",
+                "grade": "7c",
+                "sector": "La Llana"
+            },
+            {
+                "name": "Por amor al arte",
+                "grade": "6c+",
+                "sector": "Matrix"
+            }
+        ]
+    },
+    "rocas de suesca": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "licor",
+                "grade": "8a",
+                "sector": "licor"
+            },
+            {
+                "name": "no cabe ducda",
+                "grade": "7c+",
+                "sector": "haztelo panchito"
+            },
+            {
+                "name": "alta variante",
+                "grade": "7c",
+                "sector": "sue\u00f1os de un seductor"
+            }
+        ]
+    },
+    "Flori\u00e1n Santander": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El gal\u00e1n",
+                "grade": "6a+",
+                "sector": "El Port\u00f3n"
+            },
+            {
+                "name": "Flower Power",
+                "grade": "7a+",
+                "sector": "EL Cacique Tisquezoque"
+            }
+        ]
+    },
+    "Cachi": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Buen ray",
+                "grade": "7a+",
+                "sector": "Cachi"
+            }
+        ]
+    },
+    "Ventanas de Tizquizoque": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El cacique Tizquizoque",
+                "grade": "6c",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "Grande no es bueno",
+                "grade": "6c",
+                "sector": "Flori\u00e1n"
+            }
+        ]
+    },
+    "Macheta Nuevo": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Kriptonita",
+                "grade": "7c+",
+                "sector": "El salon de la justicia"
+            }
+        ]
+    },
+    "Rocas del Abra": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Contacto",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "Calor del Futuro",
+                "grade": "6c",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Guatape": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "N.N.",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "El gran diedro": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La Sagrada Familia",
+                "grade": "7a",
+                "sector": "Suesca"
+            },
+            {
+                "name": "El gran diedro",
+                "grade": "6a",
+                "sector": "Suesca"
+            }
+        ]
+    },
+    "Los Chimbalos": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Agridulce placer",
+                "grade": "6c+",
+                "sector": "Flori\u00e1n"
+            },
+            {
+                "name": "37 a\u00f1os despu\u00e9s",
+                "grade": "7a",
+                "sector": "Flori\u00e1n"
+            }
+        ]
+    },
+    "Tona Santander": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El Vegecarniano",
+                "grade": "7c+",
+                "sector": "LA Antigua floresta"
+            },
+            {
+                "name": "LA Crespa dura",
+                "grade": "8a",
+                "sector": "LA Antigua floresta"
+            }
+        ]
+    },
+    "suesca": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "rodyjones",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            },
+            {
+                "name": "la negra candela",
+                "grade": "7c+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Kalymnos": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Andromeda",
+                "grade": "7c+",
+                "sector": "Odyssey"
+            }
+        ]
+    },
+    "Santa Maria": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Mawiwawi",
+                "grade": "7a",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Juntas Tolima": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Tamarindo",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Euqas-oluc": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La oculta",
+                "grade": "6c",
+                "sector": "Suesca"
+            }
+        ]
+    },
+    "La nariz": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La nariz",
+                "grade": "6a",
+                "sector": "Suesca"
+            }
+        ]
+    },
+    "Zona de la nariz": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "M\u00e1quina de guerra",
+                "grade": "7a",
+                "sector": "Suesca"
+            }
+        ]
+    },
+    "Mortain": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "la fissure goby",
+                "grade": "6a",
+                "sector": "aiguille"
+            }
+        ]
+    },
+    "La Mojarra /Colombia": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Aliens",
+                "grade": "7a+",
+                "sector": "La Mojarra"
+            }
+        ]
+    },
+    "Valle de los Hacones": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Decademencia",
+                "grade": "6b+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Pe\u00f1ol": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "La gota fria",
+                "grade": "5a+",
+                "sector": "la gota fria"
+            }
+        ]
+    },
+    "Villa M\u00e1ria-Pasto": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "VolumenII",
+                "grade": "7b",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Valles de los halcones": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Gotas de lluvia",
+                "grade": "6c+",
+                "sector": "Candela"
+            }
+        ]
+    },
+    "Sabrinsky": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Mi perro rasta",
+                "grade": "7b+",
+                "sector": "Unknown Sector"
+            }
+        ]
+    },
+    "Las pavas": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Cuento de adas alem\u00e1n",
+                "grade": "7a+",
+                "sector": "Cuento de adas"
+            }
+        ]
+    },
+    "San roque": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "El heragan",
+                "grade": "7a+",
+                "sector": "unico"
+            }
+        ]
+    },
+    "San Andr\u00e9s DWS": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Barracuda",
+                "grade": "6b",
+                "sector": "Barracuda"
+            }
+        ]
+    },
+    "Macagua": {
+        "area": "Colombia",
+        "location": "Unknown Location",
+        "routes": [
+            {
+                "name": "Torre de Control p1",
+                "grade": "8a+",
+                "sector": "Salsa wall"
+            }
+        ]
+    }
+}
