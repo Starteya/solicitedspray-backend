@@ -1,21 +1,21 @@
 steps:
-  # Step 1: Build Docker image from backend/
+  # Step 1: Build the Docker image from the root
   - name: 'gcr.io/cloud-builders/docker'
     args: ['build', '-t', 'gcr.io/$PROJECT_ID/solicitedspray-backend', '.']
-    dir: 'backend'
 
-  # Step 2: Push Docker image
+  # Step 2: Push the Docker image
   - name: 'gcr.io/cloud-builders/docker'
     args: ['push', 'gcr.io/$PROJECT_ID/solicitedspray-backend']
 
-  # Step 3: Deploy Cloud Run service using the YAML config
+  # Step 3: Deploy using your Cloud Run YAML config
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: bash
     args:
       - '-c'
       - |
-        gcloud run services replace backend/cloud_run_service.yaml \
+        gcloud run services replace cloud_run_service.yaml \
           --region=us-central1 \
           --platform=managed
+
 options:
   logging: CLOUD_LOGGING_ONLY
