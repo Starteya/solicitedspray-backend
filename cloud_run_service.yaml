@@ -41,51 +41,51 @@ spec:
               secretKeyRef:
                 name: youtube-api-key
                 key: latest
-            - name: VIMEO_ACCESS_TOKEN
-              valueFrom:
-                secretKeyRef:
-                  name: vimeo-access-token
-                  key: latest
-            - name: REDIS_HOST
-              valueFrom:
-                secretKeyRef:
-                  name: redis-host
-                  key: latest
-            - name: REDIS_PORT
-              value: "15108"
-            - name: REDIS_USERNAME
-              value: "default"
-            - name: REDIS_PASSWORD
-              valueFrom:
-                secretKeyRef:
-                  name: redis-password
-                  key: latest
-            - name: REDIS_TLS
-              value: "false"
-            - name: EMAIL_USERNAME
-              valueFrom:
-                secretKeyRef:
-                  name: email-username
-                  key: latest
-            - name: EMAIL_APP_PASSWORD
-              valueFrom:
-                secretKeyRef:
-                  name: email-app-password
-                  key: latest
-            - name: CONTACT_EMAIL
-              value: "estrelloapps@gmail.com"
-            - name: RECAPTCHA_SECRET_KEY
-              valueFrom:
-                secretKeyRef:
-                  name: recaptcha-secret
-                  key: latest
-            - name: AGGREGATE_SECRET
-              valueFrom:
-                secretKeyRef:
-                  name: aggregate-secret
-                  key: latest
-            - name: NODE_ENV
-              value: "production"
+          - name: VIMEO_ACCESS_TOKEN
+            valueFrom:
+              secretKeyRef:
+                name: vimeo-access-token
+                key: latest
+          - name: REDIS_HOST
+            valueFrom:
+              secretKeyRef:
+                name: redis-host
+                key: latest
+          - name: REDIS_PORT
+            value: "15108"
+          - name: REDIS_USERNAME
+            value: "default"
+          - name: REDIS_PASSWORD
+            valueFrom:
+              secretKeyRef:
+                name: redis-password
+                key: latest
+          - name: REDIS_TLS
+            value: "false"
+          - name: EMAIL_USERNAME
+            valueFrom:
+              secretKeyRef:
+                name: email-username
+                key: latest
+          - name: EMAIL_APP_PASSWORD
+            valueFrom:
+              secretKeyRef:
+                name: email-app-password
+                key: latest
+          - name: CONTACT_EMAIL
+            value: "estrelloapps@gmail.com"
+          - name: RECAPTCHA_SECRET_KEY
+            valueFrom:
+              secretKeyRef:
+                name: recaptcha-secret
+                key: latest
+          - name: AGGREGATE_SECRET
+            valueFrom:
+              secretKeyRef:
+                name: aggregate-secret
+                key: latest
+          - name: NODE_ENV
+            value: "production"
       serviceAccountName: 615014515729-compute@developer.gserviceaccount.com
       timeoutSeconds: 300
   traffic:
