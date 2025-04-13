@@ -17,3 +17,5 @@ steps:
         gcloud run services replace backend/cloud_run_service.yaml \
           --region=us-central1 \
           --platform=managed
+options:
+  logging: CLOUD_LOGGING_ONLY
