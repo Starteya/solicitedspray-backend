@@ -34,22 +34,22 @@ spec:
             - name: MONGO_URI
               valueFrom:
                 secretKeyRef:
-                  name: mongo-uri
+                  name: MONGO_URI
                   key: latest
             - name: YOUTUBE_API_KEY
               valueFrom:
                 secretKeyRef:
-                  name: youtube-api-key
+                  name: YOUTUBE_API_KEY
                   key: latest
             - name: VIMEO_ACCESS_TOKEN
               valueFrom:
                 secretKeyRef:
-                  name: vimeo-access-token
+                  name: VIMEO_ACCESS_TOKEN
                   key: latest
             - name: REDIS_HOST
               valueFrom:
                 secretKeyRef:
-                  name: redis-host
+                  name: REDIS_HOST
                   key: latest
             - name: REDIS_PORT
               value: "15108"
@@ -58,31 +58,31 @@ spec:
             - name: REDIS_PASSWORD
               valueFrom:
                 secretKeyRef:
-                  name: redis-password
+                  name: REDIS_PASSWORD
                   key: latest
             - name: REDIS_TLS
               value: "false"
             - name: EMAIL_USERNAME
               valueFrom:
                 secretKeyRef:
-                  name: email-username
+                  name: EMAIL_USERNAME
                   key: latest
             - name: EMAIL_APP_PASSWORD
               valueFrom:
                 secretKeyRef:
-                  name: email-app-password
+                  name: EMAIL_APP_PASSWORD
                   key: latest
             - name: CONTACT_EMAIL
               value: "estrelloapps@gmail.com"
             - name: RECAPTCHA_SECRET_KEY
               valueFrom:
                 secretKeyRef:
-                  name: recaptcha-secret
+                  name: RECAPTCHA_SECRET_KEY
                   key: latest
             - name: AGGREGATE_SECRET
               valueFrom:
                 secretKeyRef:
-                  name: aggregate-secret
+                  name: AGGREGATE_SECRET
                   key: latest
             - name: NODE_ENV
               value: "production"
