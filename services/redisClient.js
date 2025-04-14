@@ -14,6 +14,7 @@ const redisOptions = {
     host: REDIS_HOST,
     port: Number(REDIS_PORT),
   },
+    username: REDIS_USERNAME,
     password: REDIS_PASSWORD,
 };
 
