@@ -9,7 +9,6 @@ const searchVimeoVideos = require('../services/vimeoService');
 //const searchInstagramMedia = require('../services/instagramService');
 const redisClient = require('../services/redisClient');
 
-
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const createYDSRegex = (grade) => {
