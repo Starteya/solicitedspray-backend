@@ -52,7 +52,7 @@ spec:
                   name: REDIS_HOST
                   key: latest
             - name: REDIS_PORT
-              value: "16275"
+              value: "17613"
             - name: REDIS_USERNAME
               value: "default"
             - name: REDIS_PASSWORD
