@@ -212,7 +212,7 @@ if(require.main === module){
   });
 
     // Run the aggregation
-    await aggregateVideos(50); // must determine value - last was 225 but redis cache was empty so 100 would have been correct
+    await aggregateVideos(50); //as of 6/16/25 
 
     // Close connections
     await mongoose.disconnect();
