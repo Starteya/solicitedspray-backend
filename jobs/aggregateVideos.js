@@ -212,7 +212,7 @@ if(require.main === module){
   });
 
     // Run the aggregation
-    await aggregateVideos(50); //as of 6/16/25 
+    await aggregateVideos(100); //as of 6/16/25 
 
     // Close connections
     await mongoose.disconnect();

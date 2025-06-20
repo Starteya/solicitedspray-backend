@@ -6,7 +6,7 @@ const aggregateVideos = require('../jobs/aggregateVideos');
 const Parameter = require('../models/Parameter');
 
 router.post('/', async (req, res) => {
-
+  console.log('Aggregate endpoint hit');
   const secret = req.headers['x-aggregate-secret'];
 
   if (secret !== process.env.AGGREGATE_SECRET) {
