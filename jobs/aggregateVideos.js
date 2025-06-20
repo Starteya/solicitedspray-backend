@@ -194,6 +194,7 @@ const aggregateVideos = async (parameter) => {
       // Wait before processing the next route
       await wait(2000); // Wait for 2 seconds
     }
+    console.log('Aggregation Complete');
   } catch (error) {
     console.error('Error aggregating videos:', error);
   }

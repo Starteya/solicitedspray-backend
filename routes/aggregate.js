@@ -6,7 +6,6 @@ const aggregateVideos = require('../jobs/aggregateVideos');
 const Parameter = require('../models/Parameter');
 
 router.post('/', async (req, res) => {
-  console.log('Aggregate endpoint hit');
   const secret = req.headers['x-aggregate-secret'];
 
   if (secret !== process.env.AGGREGATE_SECRET) {
@@ -14,6 +13,7 @@ router.post('/', async (req, res) => {
     return res.status(403).send('Forbidden.');
 
   }
+    res.status(200).send('Aggregation started.'); // Send 
     console.log('Running daily video aggregation...');
   try {
     // Get the current parameter from MongoDB
@@ -33,8 +33,6 @@ router.post('/', async (req, res) => {
     // Update the parameter in the database
     parameterDoc.parameter = parameter;
     await parameterDoc.save();
-
-    res.status(200).send('Aggregation completed successfully.');
   } catch (error) {
     console.error('Error updating parameter:', error);
     res.status(500).send('Aggregation failed.');
