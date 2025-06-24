@@ -87,8 +87,8 @@ spec:
             - name: NODE_ENV
               value: "production"
       vpcAccess:
-        connector: projects/solicitedspray/locations/us-central1/connectors/cloudrun-connector
-        egress: ALL_TRAFFIC
+       connector: projects/solicitedspray/locations/us-central1/connectors/cloudrun-connector
+       egress: ALL_TRAFFIC
       serviceAccountName: 615014515729-compute@developer.gserviceaccount.com
       timeoutSeconds: 300
   traffic:
