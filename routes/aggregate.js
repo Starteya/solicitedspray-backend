@@ -27,7 +27,7 @@ router.post('/', async (req, res) => {
     let parameter = parameterDoc.parameter;
 
     // Increment the parameter
-    parameter += 75;
+    parameter += 100;
     await aggregateVideos(parameter);
 
     // Update the parameter in the database
