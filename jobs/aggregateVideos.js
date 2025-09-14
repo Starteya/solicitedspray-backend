@@ -100,11 +100,19 @@ const createFrenchGradeRegex = (grade) => {
   }
 };
 
-const aggregateVideos = async (parameter) => {
+const aggregateVideos = async (offset = 0, batchsize = 100) => {
   try {
+    console.log(`Processing routes from offset ${offset} to ${offset + batchSize}`);
+
     // Correctly limit the number of routes
-    const routes = await Route.find().limit(parameter); // See server.js for value stored in database
+    const routes = await Route.find().skip(offset).limit(batchSize); // See server.js for value stored in database
             
+    
+    if (routes.length === 0) {
+      console.log('No more routes to process.');
+      return { processed: 0 };
+    }
+
     for (const route of routes) {
         // query uses route.name + yds to search ONLY USING YDS BUT WILL NEED TO ADJUST BASED UPON LOCATION?
       const query = `${route.name} ${route.yds}`;
@@ -195,8 +203,10 @@ const aggregateVideos = async (parameter) => {
       await wait(2000); // Wait for 2 seconds
     }
     console.log('Aggregation Complete');
+    return { processed: routes.length };
   } catch (error) {
     console.error('Error aggregating videos:', error);
+    return { processed: 0 };
   }
 };
 
@@ -213,7 +223,7 @@ if(require.main === module){
   });
 
     // Run the aggregation
-    await aggregateVideos(100); //as of 6/16/25 
+    await aggregateVideos(0, 100); 
 
     // Close connections
     await mongoose.disconnect();

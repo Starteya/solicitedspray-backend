@@ -15,23 +15,26 @@ router.post('/', async (req, res) => {
   }
     res.status(200).send('Aggregation started.'); // Send 
     console.log('Running daily video aggregation...');
-  try {
-    // Get the current parameter from MongoDB
-    let parameterDoc = await Parameter.findOne({}); // Find the first document in the collection
+   try {
+    let parameterDoc = await Parameter.findOne({});
     if (!parameterDoc) {
-      // If no document exists, create one
       parameterDoc = new Parameter({ parameter: 0 });
       await parameterDoc.save();
     }
 
-    let parameter = parameterDoc.parameter;
+    const offset = parameterDoc.parameter;
+    const BATCH_SIZE = 100;
 
-    // Increment the parameter
-    parameter += 100;
-    await aggregateVideos(parameter);
+    const result = await aggregateVideos(offset, BATCH_SIZE); // 👈 pass both offset and limit
 
-    // Update the parameter in the database
-    parameterDoc.parameter = parameter;
+    // If we processed fewer than BATCH_SIZE, reset (end of dataset)
+    if (result.processed < BATCH_SIZE) {
+      console.log('Reached end of route list. Resetting offset.');
+      parameterDoc.parameter = 0;
+    } else {
+      parameterDoc.parameter += BATCH_SIZE;
+    }
+
     await parameterDoc.save();
   } catch (error) {
     console.error('Error updating parameter:', error);
