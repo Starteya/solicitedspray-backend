@@ -100,7 +100,7 @@ const createFrenchGradeRegex = (grade) => {
   }
 };
 
-const aggregateVideos = async (offset = 0, batchsize = 100) => {
+const aggregateVideos = async (offset = 0, batchSize = 100) => {
   try {
     console.log(`Processing routes from offset ${offset} to ${offset + batchSize}`);
 
