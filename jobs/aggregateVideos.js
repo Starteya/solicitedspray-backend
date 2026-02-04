@@ -2,6 +2,7 @@
 
 
 require('dotenv').config();
+const Parameter = require('../models/Parameter');
 const mongoose = require('mongoose');
 const Route = require('../models/Route');
 const searchYouTubeVideos = require('../services/youtubeService');
@@ -211,32 +212,48 @@ const aggregateVideos = async (offset = 0, batchSize = 100) => {
 };
 
 // **Execute the function when the script is run directly**
-if(require.main === module){
-(async () => {
-  try {
-    // Connect to MongoDB
-    await mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true }).then(() => {
-    console.log('MongoDB connected');
-  })
-  .catch((err) => {
-    console.error('MongoDB connection error:', err);
-  });
+if (require.main === module) {
+  (async () => {
+    try {
+      console.log('Starting daily video aggregation job...');
 
-    // Run the aggregation
-    await aggregateVideos(0, 500); 
+      await mongoose.connect(process.env.MONGO_URI);
+      console.log('MongoDB connected');
 
-    // Close connections
-    await mongoose.disconnect();
-    if (redisClient && redisClient.quit) {
-      await redisClient.quit();
+      let parameterDoc = await Parameter.findOne({});
+      if (!parameterDoc) {
+        parameterDoc = new Parameter({ parameter: 0 });
+        await parameterDoc.save();
+      }
+
+      const BATCH_SIZE = 100;
+      const offset = parameterDoc.parameter;
+
+      const result = await aggregateVideos(offset, BATCH_SIZE);
+
+      if (result.processed < BATCH_SIZE) {
+        console.log('Reached end of route list. Resetting offset.');
+        parameterDoc.parameter = 0;
+      } else {
+        parameterDoc.parameter += BATCH_SIZE;
+      }
+
+      await parameterDoc.save();
+
+      if (redisClient?.quit) {
+        await redisClient.quit();
+      }
+
+      await mongoose.disconnect();
+
+      console.log('Daily aggregation completed successfully');
+      process.exit(0);
+
+    } catch (error) {
+      console.error('Aggregation failed:', error);
+      process.exit(1);
     }
-    console.log('Aggregation complete');
-    process.exit(0);
-  } catch (error) {
-    console.error('Error during aggregation:', error);
-    process.exit(1);
-  }
-})();
+  })();
 }
 
 module.exports = aggregateVideos;
