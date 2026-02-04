@@ -4,7 +4,7 @@ require('dotenv').config(); // Load environment variables
 const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');
-
+const morgan = require('morgan');
 const app = express();
 
 const allowedOrigins = process.env.NODE_ENV === 'production' ? [
@@ -41,6 +41,7 @@ app.use(cors({
 }));
 
 app.use(express.json({limit: '10kb'}));
+app.use(morgan('combined'));
 
 // Import routes
 const routeRoutes = require('./routes');
