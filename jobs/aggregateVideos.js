@@ -101,7 +101,7 @@ const createFrenchGradeRegex = (grade) => {
   }
 };
 
-const aggregateVideos = async (offset = 0, batchSize = 100) => {
+const aggregateVideos = async (offset = 0, batchSize = 500) => {
   try {
     console.log(`Processing routes from offset ${offset} to ${offset + batchSize}`);
 
@@ -226,7 +226,7 @@ if (require.main === module) {
         await parameterDoc.save();
       }
 
-      const BATCH_SIZE = 100;
+      const BATCH_SIZE = 500;
       const offset = parameterDoc.parameter;
 
       const result = await aggregateVideos(offset, BATCH_SIZE);
