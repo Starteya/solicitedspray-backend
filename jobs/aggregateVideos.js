@@ -101,7 +101,7 @@ const createFrenchGradeRegex = (grade) => {
   }
 };
 
-const aggregateVideos = async (offset = 0, batchSize = 500) => {
+const aggregateVideos = async (offset = 0, batchSize = 2000) => {
   try {
     console.log(`Processing routes from offset ${offset} to ${offset + batchSize}`);
 
@@ -126,7 +126,7 @@ const aggregateVideos = async (offset = 0, batchSize = 500) => {
       try {
         youTubeVideos = await searchYouTubeVideos(query);
         // Wait for 1 second before the next API call
-        await wait(1000);
+        await wait(500);
       } catch (error) {
         console.error('YouTube API Error:', error.message);
         // Handle quotaExceeded error
@@ -139,7 +139,7 @@ const aggregateVideos = async (offset = 0, batchSize = 500) => {
 
       try {
         vimeoVideos = await searchVimeoVideos(query);
-        await wait(1000);
+        await wait(500);
       } catch (error) {
         console.error('Vimeo API Error:', error.message);
       }
@@ -201,7 +201,7 @@ const aggregateVideos = async (offset = 0, batchSize = 500) => {
       }
 
       // Wait before processing the next route
-      await wait(2000); // Wait for 2 seconds
+      await wait(1000); // Wait for 2 seconds
     }
     console.log('Aggregation Complete');
     return { processed: routes.length };
@@ -226,7 +226,7 @@ if (require.main === module) {
         await parameterDoc.save();
       }
 
-      const BATCH_SIZE = 500;
+      const BATCH_SIZE = 2000;
       const offset = parameterDoc.parameter;
 
       const result = await aggregateVideos(offset, BATCH_SIZE);
