@@ -102,16 +102,15 @@ const createFrenchGradeRegex = (grade) => {
 };
 
 const aggregateVideos = async (offset = 0, batchSize = 2000) => {
-  try {
     console.log(`Processing routes from offset ${offset} to ${offset + batchSize}`);
 
-    // Correctly limit the number of routes
-    const routes = await Route.find().skip(offset).limit(batchSize); // See server.js for value stored in database
+    // Correctly limit the number of routes. lean = no mongoose document versioning
+    const routes = await Route.find().skip(offset).limit(batchSize).lean(); // See server.js for value stored in database
             
     
     if (routes.length === 0) {
       console.log('No more routes to process.');
-      return { processed: 0 };
+      return { processed: 0, success: true };
     }
 
     for (const route of routes) {
@@ -125,16 +124,11 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
 
       try {
         youTubeVideos = await searchYouTubeVideos(query);
-        // Wait for 1 second before the next API call
+        // Wait for 0.5 second before the next API call
         await wait(500);
       } catch (error) {
         console.error('YouTube API Error:', error.message);
-        // Handle quotaExceeded error
-        if (error.response && error.response.data.error.code === 403) {
-          console.error('YouTube API quota exceeded. Skipping further YouTube API calls.');
-          // Break out of the loop or handle accordingly
-          break;
-        }
+        throw error; // Stop job if API fails
       }
 
       try {
@@ -188,11 +182,19 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
       if (filteredVideos.length > 0) {
         // Update route with videos
         route.videos = filteredVideos;
-        await route.save();
+        await Route.updateOne(
+          { _id: route._id },
+          { $set: { videos: filteredVideos } }
+        );
+
         console.log(`Updated route: ${route.name} with ${filteredVideos.length} videos.`);
       } else {
           route.videos = [];
-          await route.save();
+          await Route.updateOne(
+            { _id: route._id },
+            { $set: { videos: filteredVideos } }
+          );
+
           console.log(`No videos found for route: ${route.name}.`);
         // Optionally, keep the route even if no videos are found
         // Remove route if no videos
@@ -204,11 +206,8 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
       await wait(1000); // Wait for 2 seconds
     }
     console.log('Aggregation Complete');
-    return { processed: routes.length };
-  } catch (error) {
-    console.error('Error aggregating videos:', error);
-    return { processed: 0 };
-  }
+    return { processed: routes.length, success: true };
+ 
 };
 
 // **Execute the function when the script is run directly**
@@ -230,16 +229,21 @@ if (require.main === module) {
       const offset = parameterDoc.parameter;
 
       const result = await aggregateVideos(offset, BATCH_SIZE);
-
+      
+      if (result.success){
       if (result.processed < BATCH_SIZE) {
         console.log('Reached end of route list. Resetting offset.');
         parameterDoc.parameter = 0;
       } else {
         parameterDoc.parameter += BATCH_SIZE;
       }
-
+      
+      
       await parameterDoc.save();
-
+      } else { 
+        console.log('Job failed. Offset not updated.');
+        }
+      
       if (redisClient?.quit) {
         await redisClient.quit();
       }
