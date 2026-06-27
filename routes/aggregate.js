@@ -23,7 +23,7 @@ router.post('/', async (req, res) => {
     }
 
     const offset = parameterDoc.parameter;
-    const BATCH_SIZE = 100;
+    const BATCH_SIZE = parseInt(process.env.AGGREGATE_BATCH_SIZE || '1000', 10); // Configures batch size
 
     const result = await aggregateVideos(offset, BATCH_SIZE); // 👈 pass both offset and limit
 

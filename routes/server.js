@@ -46,12 +46,12 @@ app.use(morgan('combined'));
 // Import routes
 const routeRoutes = require('./routes');
 const contactRoutes = require('./contact');
-const aggregateRoutes = require('./aggregate'); 
+//const aggregateRoutes = require('./aggregate'); 
 
 // Use routes
 app.use('/api/routes', routeRoutes);
 app.use('/api/contact', contactRoutes);
-app.use('/api/aggregate', aggregateRoutes);
+//app.use('/api/aggregate', aggregateRoutes);
 
 // Connect to MongoDB
 mongoose
