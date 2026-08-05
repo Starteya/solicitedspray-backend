@@ -145,6 +145,19 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
             // convert all text to lowercase for case-insensitive comarison
             const title = (video.title || '').toLowerCase();
             const description = (video.description || '').toLowerCase();
+            const text = title + ' ' + description;
+
+            // If the title/description contains a date-like pattern: X.Y.ZZZZ or X.Y.ZZ
+            // and it includes the YDS grade, reject it
+            const datePattern = /\b\d{1,2}\.\d{1,2}\.\d{2,4}\b/;
+            const hasDateFormat = datePattern.test(title + ' ' + description);
+            const ydsLower = route.yds ? route.yds.toLowerCase() : '';
+            const mentionsYDS = ydsLower && text.includes(ydsLower);
+
+            if (hasDateFormat && mentionsYDS) {
+              console.log(`⚠️ Blocked potential date video: "${video.title}" for route "${route.name}" (YDS: ${route.yds})`);
+              return false;
+            }
             
             // No .trim() needed?
             const name = (route.name || '').toLowerCase();
