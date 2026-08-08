@@ -1,12 +1,12 @@
 // backend/services/youtubeService.js
 
 const axios = require('axios');
-const redisClient = require('./redisClient');
+//const redisClient = require('./redisClient');
 
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 
 // Optionally prefix cache keys
-const CACHE_KEY_PREFIX = 'youtube:';
+//const CACHE_KEY_PREFIX = 'youtube:';
 
 const searchYouTubeVideos = async (query) => {
   /*

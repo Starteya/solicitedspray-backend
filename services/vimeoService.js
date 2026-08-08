@@ -6,7 +6,7 @@ const axios = require('axios');
 const VIMEO_ACCESS_TOKEN = process.env.VIMEO_ACCESS_TOKEN;
 
 // Optionally define a cache key prefix
-const CACHE_KEY_PREFIX = 'vimeo:';
+//const CACHE_KEY_PREFIX = 'vimeo:';
 
 const searchVimeoVideos = async (query) => {
   /*
