@@ -114,7 +114,14 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
     }
 
     for (const route of routes) {
-        // query uses route.name + yds to search ONLY USING YDS BUT WILL NEED TO ADJUST BASED UPON LOCATION?
+      // Name + Grade collisions (count how many routes share same name and grade)
+      const routeNameGradeCount = await Route.countDocumets({
+        name: route.name,
+        grade: route.grade
+      });
+      const isAmbigousRoute = routeNameGradeCount > 1;
+      
+      // query uses route.name + yds to search ONLY USING YDS BUT WILL NEED TO ADJUST BASED UPON LOCATION?
       const query = `${route.name} ${route.yds}`;
         
       // Fetch videos from APIs with delay to avoid exceeding quota
@@ -185,9 +192,18 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
             const hasYDS = ydsRegex && (ydsRegex.test(title) || ydsRegex.test(description));
           
             const hasGradeOrYDS = (hasGrade || hasYDS);
-
-            // Must have name and one othermatching route parameter
-            const meetsCriteria = (hasName && (hasCragOrArea || hasGradeOrYDS));
+            
+            let meetsCriteria = false;
+          
+            if (isAmbigousRoute) {
+              // Same route name + grade exists elsewhere
+              meetsCriteria = hasName && (hasCragOrArea && hasGradeOrYDS);
+              
+            } else {
+              //Unique names
+              // Must have name and one othermatching route parameter
+              meetsCriteria = (hasName && (hasCragOrArea || hasGradeOrYDS));
+            }
        
             return meetsCriteria;
 
