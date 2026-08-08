@@ -115,7 +115,7 @@ const aggregateVideos = async (offset = 0, batchSize = 2000) => {
 
     for (const route of routes) {
       // Name + Grade collisions (count how many routes share same name and grade)
-      const routeNameGradeCount = await Route.countDocumets({
+      const routeNameGradeCount = await Route.countDocuments({
         name: route.name,
         grade: route.grade
       });
