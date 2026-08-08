@@ -9,6 +9,7 @@ const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const CACHE_KEY_PREFIX = 'youtube:';
 
 const searchYouTubeVideos = async (query) => {
+  /*
   const cacheKey = `${CACHE_KEY_PREFIX}${query.toLowerCase()}`;
 
   // Check if the data is in the cache
@@ -21,6 +22,7 @@ const searchYouTubeVideos = async (query) => {
   } catch (err) {
     console.error('Redis Get Error:', err);
   }
+  */
 
   const url = 'https://www.googleapis.com/youtube/v3/search';
 
@@ -43,6 +45,7 @@ const searchYouTubeVideos = async (query) => {
       thumbnail: item.snippet.thumbnails.high.url,
     }));
 
+    /*
     // Store the response in the cache with an expiration time
     try {
       await redisClient.set(cacheKey, JSON.stringify(videos), {
@@ -52,6 +55,7 @@ const searchYouTubeVideos = async (query) => {
     } catch (err) {
       console.error('Redis Set Error:', err);
     }
+    */
 
     return videos;
   } catch (error) {

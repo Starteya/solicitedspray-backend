@@ -1,7 +1,7 @@
 // backend/services/vimeoService.js
 
 const axios = require('axios');
-const redisClient = require('./redisClient'); // Adjust the path according to your project structure
+//const redisClient = require('./redisClient'); // Adjust the path according to your project structure
 
 const VIMEO_ACCESS_TOKEN = process.env.VIMEO_ACCESS_TOKEN;
 
@@ -9,8 +9,9 @@ const VIMEO_ACCESS_TOKEN = process.env.VIMEO_ACCESS_TOKEN;
 const CACHE_KEY_PREFIX = 'vimeo:';
 
 const searchVimeoVideos = async (query) => {
+  /*
   const cacheKey = `${CACHE_KEY_PREFIX}${query.toLowerCase()}`;
-
+  
   // Check if the data is in the cache
   try {
     const cachedData = await redisClient.get(cacheKey);
@@ -22,7 +23,8 @@ const searchVimeoVideos = async (query) => {
     console.error('Redis Get Error:', err);
     // If there's an error with Redis, proceed without cached data
   }
-
+  */
+  
   const url = 'https://api.vimeo.com/videos';
   try {
     const response = await axios.get(url, {
@@ -43,6 +45,7 @@ const searchVimeoVideos = async (query) => {
       thumbnail: item.pictures?.sizes?.pop()?.link || '', // Safely access thumbnail
     }));
 
+    /*
     // Store the response in the cache with an expiration time
     try {
       await redisClient.set(cacheKey, JSON.stringify(videos), {
@@ -53,6 +56,7 @@ const searchVimeoVideos = async (query) => {
       console.error('Redis Set Error:', err);
       // If caching fails, continue without interrupting the flow
     }
+    */
 
     return videos;
   } catch (error) {
