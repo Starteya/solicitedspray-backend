@@ -8,7 +8,6 @@ const Route = require('../models/Route');
 const searchYouTubeVideos = require('../services/youtubeService');
 const searchVimeoVideos = require('../services/vimeoService');
 //const searchInstagramMedia = require('../services/instagramService');
-const redisClient = require('../services/redisClient');
 
 
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -272,10 +271,6 @@ if (require.main === module) {
       } else { 
         console.log('Job failed. Offset not updated.');
         }
-      
-      if (redisClient?.quit) {
-        await redisClient.quit();
-      }
 
       await mongoose.disconnect();
 
