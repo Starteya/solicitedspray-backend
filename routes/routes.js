@@ -1,6 +1,7 @@
 // backend/routes/routes.js
 
 const express = require('express');
+const mongoose = require('mongoose');
 const router = express.Router();
 const Route = require('../models/Route');
 
@@ -89,11 +90,21 @@ router.get('/search', async (req, res) => {
 
 // Get route details with videos
 router.get('/:id', async (req, res) => {
+  if (!mongoose.isValidObjectId(req.params.id)) {
+    return res.status(400).json({ error: 'Invalid route ID' });
+  }
+
   try {
     const route = await Route.findById(req.params.id);
+
+    if (!route) {
+      return res.status(404).json({ error: 'Route not found' });
+    }
+
     res.json(route);
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    console.error('Error fetching route details:', err);
+    res.status(500).json({ error: 'An error occurred while fetching route details' });
   }
 });
 

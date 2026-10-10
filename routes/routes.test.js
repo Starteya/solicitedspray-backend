@@ -12,6 +12,9 @@ let baseUrl;
 let capturedSearch;
 let capturedSkip;
 let capturedLimit;
+let capturedDetailId;
+let detailRoute;
+let detailError;
 
 before(async () => {
   Route.countDocuments = async (search) => {
@@ -34,6 +37,11 @@ before(async () => {
       },
     };
   };
+  Route.findById = async (id) => {
+    capturedDetailId = id;
+    if (detailError) throw detailError;
+    return detailRoute;
+  };
 
   server = app.listen(0);
   await new Promise((resolve) => server.once('listening', resolve));
@@ -50,12 +58,20 @@ beforeEach(() => {
   capturedSearch = undefined;
   capturedSkip = undefined;
   capturedLimit = undefined;
+  capturedDetailId = undefined;
+  detailRoute = { _id: '679180fbade31311fc5db22a', name: 'Soul Ignition' };
+  detailError = undefined;
 });
 
 const search = async (params) => {
   const url = new URL(baseUrl);
   url.search = new URLSearchParams(params).toString();
   const response = await fetch(url);
+  return { response, body: await response.json() };
+};
+
+const getRoute = async (id) => {
+  const response = await fetch(`http://127.0.0.1:${server.address().port}/api/routes/${id}`);
   return { response, body: await response.json() };
 };
 
@@ -113,4 +129,36 @@ test('rejects queries longer than 100 characters', async () => {
   assert.equal(response.status, 400);
   assert.match(body.error, /cannot exceed 100 characters/);
   assert.equal(capturedSearch, undefined);
+});
+
+test('rejects malformed route IDs without querying the database', async () => {
+  const { response, body } = await getRoute('not-a-mongo-id');
+
+  assert.equal(response.status, 400);
+  assert.deepEqual(body, { error: 'Invalid route ID' });
+  assert.equal(capturedDetailId, undefined);
+});
+
+test('returns 404 when a valid route ID does not exist', async () => {
+  detailRoute = null;
+  const { response, body } = await getRoute('679180fbade31311fc5db22a');
+
+  assert.equal(response.status, 404);
+  assert.deepEqual(body, { error: 'Route not found' });
+  assert.equal(capturedDetailId, '679180fbade31311fc5db22a');
+});
+
+test('returns route details for a valid route ID', async () => {
+  const { response, body } = await getRoute('679180fbade31311fc5db22a');
+
+  assert.equal(response.status, 200);
+  assert.deepEqual(body, detailRoute);
+});
+
+test('does not expose database errors when route lookup fails', async () => {
+  detailError = new Error('sensitive database detail');
+  const { response, body } = await getRoute('679180fbade31311fc5db22a');
+
+  assert.equal(response.status, 500);
+  assert.deepEqual(body, { error: 'An error occurred while fetching route details' });
 });
